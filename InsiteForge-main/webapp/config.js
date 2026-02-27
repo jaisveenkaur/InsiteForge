@@ -1,10 +1,10 @@
 // ====================================
-// INSIGHTFORGE CONFIGURATION
+// INSITEFORGE CONFIGURATION
 // ====================================
 
 // Environment detection
 // Using the newly provided Railway production API
-const apiBaseUrl = "https://insightforge-production-57a5.up.railway.app";
+const apiBaseUrl = "https://insiteforge-production-57a5.up.railway.app";
 
 const isDevelopment = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
 
@@ -44,7 +44,7 @@ export const CONFIG = {
 
 // Log configuration on load
 if (CONFIG.ENABLE_LOGGING) {
-  console.log("%c⚙️  InsightForge Configured", "color: #41b883; font-weight: bold;");
+  console.log("%c⚙️  InsiteForge Configured", "color: #41b883; font-weight: bold;");
   console.log(`Environment: ${CONFIG.isDevelopment ? "Development" : "Production"}`);
   console.log(`API: ${CONFIG.API_BASE_URL}`);
 }

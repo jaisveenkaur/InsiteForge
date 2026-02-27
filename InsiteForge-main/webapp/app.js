@@ -57,7 +57,7 @@ const toast = getElement("toast");
 // ====================================
 
 function initApp() {
-  console.log("%c🔥 InsightForge Initializing...", "color:#41b883; font-weight:bold; font-size:14px");
+  console.log("%c🔥 InsiteForge Initializing...", "color:#41b883; font-weight:bold; font-size:14px");
 
   // Check if essential elements exist
   // startBtn is only on index.html, dashboard is on dashboard.html
@@ -100,7 +100,7 @@ function initApp() {
 
   setupEventListeners();
   checkAPIHealth();
-  console.log("%c✅ InsightForge Ready", "color:#41b883; font-weight:bold; font-size:14px");
+  console.log("%c✅ InsiteForge Ready", "color:#41b883; font-weight:bold; font-size:14px");
 }
 
 function setupEventListeners() {
@@ -150,7 +150,7 @@ function setupEventListeners() {
       if (!report) return;
       const opt = {
         margin: [0.75, 0.5, 0.75, 0.5],
-        filename: `${productInput.value.trim() || 'InsightForge'}_Intel_Report.pdf`,
+        filename: `${productInput.value.trim() || 'InsiteForge'}_Intel_Report.pdf`,
         image: { type: 'jpeg', quality: 1.0 },
         html2canvas: { scale: 2, useCORS: true },
         jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' },

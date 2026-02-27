@@ -122,7 +122,7 @@ def health() -> Dict[str, str]:
 
 @app.get("/")
 def root() -> Dict[str, str]:
-    return {"status": "ok", "service": "InsightForge API"}
+    return {"status": "ok", "service": "InsiteForge API"}
 
 
 @app.get("/auth-status")

@@ -1,8 +1,8 @@
-# InsightForge
+# InsiteForge
 
-InsightForge is an e-commerce intelligence research agent designed to help teams synthesize fragmented data across catalogs, reviews, pricing, and competitor listings into strategic business decisions.
+InsiteForge is an e-commerce intelligence research agent designed to help teams synthesize fragmented data across catalogs, reviews, pricing, and competitor listings into strategic business decisions.
 
-By analyzing raw data inputs, InsightForge generates comprehensive, evidence-based reports. The system offers a "Quick" mode for rapid insights and a "Deep" mode for comprehensive strategic analysis, eliminating the need to manually interpret basic metrics.
+By analyzing raw data inputs, InsiteForge generates comprehensive, evidence-based reports. The system offers a "Quick" mode for rapid insights and a "Deep" mode for comprehensive strategic analysis, eliminating the need to manually interpret basic metrics.
 
 ## Key Features
 
