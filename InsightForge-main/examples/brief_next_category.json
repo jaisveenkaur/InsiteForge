@@ -1,0 +1,24 @@
+{
+  "mode": "deep",
+  "query_type": "next_category",
+  "query": "Based on my past analyses, what category should I explore next?",
+  "business_goal": "market expansion",
+  "scope": {
+    "marketplaces": ["Amazon", "Flipkart", "D2C"],
+    "category_or_product": "Portfolio Expansion",
+    "region": "India",
+    "timeframe": "Next quarter"
+  },
+  "data_sources": {
+    "catalog": { "path": "datasets/catalog.json" },
+    "reviews": { "path": "datasets/reviews.json" },
+    "pricing": { "path": "datasets/pricing.json" },
+    "competitors": { "path": "datasets/competitors.json" },
+    "performance_signals": { "path": "datasets/performance_signals.json" }
+  },
+  "kpi_priority": ["GMV", "margin"],
+  "constraints": [
+    "Optimize for margins instead"
+  ],
+  "analysis_theme": "Category expansion strategy"
+}

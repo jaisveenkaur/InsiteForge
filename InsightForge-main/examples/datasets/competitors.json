@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": "SoundGo X",
+    "sku": "SGX-1",
+    "tier": "premium",
+    "features": ["ANC", "Wear Detection", "Spatial Audio"]
+  },
+  {
+    "competitor": "AudioMax Pro",
+    "sku": "AMP-2",
+    "tier": "premium",
+    "features": ["Multipoint", "Spatial Audio", "ENC"]
+  },
+  {
+    "competitor": "GlowLab C",
+    "sku": "GLC-3",
+    "tier": "mass",
+    "features": ["Vitamin C", "Niacinamide", "Fragrance Free"]
+  }
+]

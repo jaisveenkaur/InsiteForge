@@ -1,0 +1,13 @@
+{
+  "raw_source": "/Users/prabhnoorsingh/Desktop/Geekroom/datasets/raw/amazon.csv",
+  "rows_read": 1465,
+  "catalog_records": 1351,
+  "review_records": 1464,
+  "pricing_records": 1465,
+  "competitor_records": 188,
+  "performance_records": 1351,
+  "notes": [
+    "competitors and performance_signals are derived for analysis compatibility.",
+    "replace derived files with true marketplace feeds for production-grade accuracy."
+  ]
+}

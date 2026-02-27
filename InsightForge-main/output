@@ -1,0 +1,31 @@
+# Quick Research Report
+- Mode: Quick
+- Business Goal: Growth
+
+## Bullet Insights
+- Available data is limited; immediate insights are directional and should be validated with additional sources.
+
+## Key Metrics
+- Reviews used: 0
+- Average rating: None
+- Negative review share: None%
+- Avg price gap vs competitors: None%
+- Avg conversion rate: None%
+- Top complaints: No complaint themes detected.
+
+## Immediate Recommendations
+- Prioritize top two complaint themes in the next sprint and validate impact on rating and return-rate.
+- Run price-position tests on over-priced SKUs against closest alternatives.
+- Adjust traffic allocation toward SKUs with stronger conversion and lower complaint density.
+
+## Confidence & Reliability
+- Confidence Score: 15%
+- Data Completeness: Low
+- Risk Flags:
+  - Missing sources: catalog, reviews, pricing, competitors, performance_signals
+
+## Supporting Evidence
+- Sources: Inline data only
+
+## What should the business do next — and why?
+- Execute a 2-week fix-and-test cycle on top complaints and pricing outliers to improve conversion while reducing margin leakage.

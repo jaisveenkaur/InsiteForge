@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Story - InsightForge</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <script src="app.js" type="module"></script>
+</head>
+
+<body>
+    <!-- Custom Cursor Glow -->
+    <div class="cursor-glow" id="cursorGlow"></div>
+
+    <!-- Animated Background Orbs -->
+    <div class="bg-orbs" id="parallaxBg">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+
+    <!-- Navigation Header -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="index.html" class="brand" style="text-decoration: none;">
+                <h1>
+                    <span>⚡</span>
+                    InsightForge
+                </h1>
+                <p>Intelligence Platform</p>
+            </a>
+
+            <button class="mobile-menu-toggle" id="mobileMenuBtn" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <nav class="main-nav" id="mainNav">
+                <a href="index.html">Home</a>
+                <a href="dashboard.html">App</a>
+                <a href="about.html" class="nav-active">The Story</a>
+            </nav>
+
+            <div style="display: flex; align-items: center; gap: 20px;">
+                <a href="https://github.com/PrabhnoorSingh-IITM/InsightForge" target="_blank" class="github-link"
+                    title="Source Code">
+                    <svg viewBox="0 0 24 24">
+                        <path
+                            d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <main class="page about-page">
+
+        <!-- Hero / Problem & Solution -->
+        <section class="about-hero fade-up-section">
+            <div class="hero-content" style="text-align: center; margin-top: 80px;">
+                <h2 class="animate-gradient-text" style="font-size: 3.5rem; margin-bottom: 24px;">The Anatomy of
+                    Intelligence</h2>
+                <p
+                    style="font-size: 1.25rem; color: var(--muted); max-width: 800px; margin: 0 auto 30px; line-height: 1.6;">
+                    Today, e-commerce brands are facing a critical bottleneck. They are drowning in data, but starving
+                    for intelligence. Simply looking at metrics across five different dashboards doesn't solve
+                    problems—it creates them.
+                </p>
+                <!-- Project Links Box for Judges -->
+                <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-bottom: 60px;">
+                    <a href="https://insightforge-1.web.app/" target="_blank" class="btn-primary"
+                        style="text-decoration: none; padding: 12px 24px; border-radius: 100px; font-weight: 500; font-size: 1rem; background: var(--primary); color: #000;">
+                        Live MVP
+                    </a>
+                    <a href="https://github.com/PrabhnoorSingh-IITM/InsightForge" target="_blank"
+                        style="text-decoration: none; padding: 12px 24px; border-radius: 100px; font-weight: 500; font-size: 1rem; background: var(--card); border: 1px solid var(--line); color: var(--text);">
+                        GitHub Repo
+                    </a>
+                    <a href="https://youtu.be/piN23OxBPUw" target="_blank"
+                        style="text-decoration: none; padding: 12px 24px; border-radius: 100px; font-weight: 500; font-size: 1rem; background: var(--card); border: 1px solid var(--line); color: var(--text);">
+                        Demo Video
+                    </a>
+                    <a href="https://docs.google.com/presentation/d/1zqpeZXP4-C9-w64NuF5k94I8WzsoJ4Wx/edit?usp=sharing&ouid=103417196698712196611&rtpof=true&sd=true"
+                        target="_blank"
+                        style="text-decoration: none; padding: 12px 24px; border-radius: 100px; font-weight: 500; font-size: 1rem; background: var(--card); border: 1px solid var(--line); color: var(--text);">
+                        Pitch Deck (PPT)
+                    </a>
+                </div>
+            </div>
+
+            <div class="about-grid"
+                style="display: grid; grid-template-columns: 1fr 1fr; gap: 32px; margin-bottom: 80px;">
+                <!-- Problem -->
+                <div class="about-card fade-up-section delay-1"
+                    style="background: var(--card); border: 1px solid rgba(255,255,255,0.05); padding: 40px; border-radius: 24px;">
+                    <div class="card-icon" style="font-size: 2.5rem; margin-bottom: 16px;">⚠️</div>
+                    <h3 style="font-size: 1.8rem; margin-bottom: 16px;">The Problem</h3>
+                    <p style="color: var(--muted); line-height: 1.7; font-size: 1.1rem;">
+                        Every day, sellers generate thousands of data points across disconnected platforms: massive
+                        catalogs, scattered customer reviews, fluctuating competitor pricing, and isolated performance
+                        metrics. When sales suddenly drop, it takes analysts weeks to manually synthesize this data to
+                        isolate the root cause. By the time they figure it out, the revenue is already lost.
+                    </p>
+                </div>
+
+                <!-- Solution -->
+                <div class="about-card fade-up-section delay-2"
+                    style="background: linear-gradient(135deg, rgba(var(--primary-rgb), 0.1), var(--card)); border: 1px solid rgba(var(--primary-rgb), 0.3); padding: 40px; border-radius: 24px; box-shadow: 0 10px 40px rgba(var(--primary-rgb), 0.1);">
+                    <div class="card-icon" style="font-size: 2.5rem; margin-bottom: 16px;">💡</div>
+                    <h3 style="font-size: 1.8rem; margin-bottom: 16px; color: var(--primary);">The Solution</h3>
+                    <p style="color: var(--text); line-height: 1.7; font-size: 1.1rem;">
+                        InsightForge replaces the chaotic traditional dashboard with an autonomous, AI-driven
+                        intelligence engine. Utilizing advanced prompt engineering, the agent cross-references
+                        everything. It automatically calculates the correlation between negative review sentiments and
+                        return rates, isolates uncompetitive pricing margins, and highlights critical missing product
+                        features!
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SWOT Analysis -->
+        <section class="about-section fade-up-section" style="margin-top: 100px;">
+            <h2 class="section-title" style="font-size: 2.5rem; text-align: center; margin-bottom: 40px;">SWOT Analysis
+            </h2>
+            <div class="swot-grid" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px;">
+                <div class="swot-box fade-up-section delay-1"
+                    style="background: rgba(0,255,136,0.05); border: 1px solid rgba(0,255,136,0.2); padding: 32px; border-radius: 20px;">
+                    <h4 style="color: #00ff88; font-size: 1.4rem; margin-bottom: 16px;">Strengths</h4>
+                    <ul style="color: var(--muted); padding-left: 20px; line-height: 1.8;">
+                        <li>Decision-first outputs, not metric dumps</li>
+                        <li>Multi-source reasoning across catalog, reviews, pricing, & competitors</li>
+                        <li>Explainability through structured evidence & uncertainty scoring</li>
+                        <li>Memory layer improves relevance over time</li>
+                        <li>API + CLI support for analysts & webapp for non-technical users</li>
+                    </ul>
+                </div>
+                <div class="swot-box fade-up-section delay-2"
+                    style="background: rgba(255,187,0,0.05); border: 1px solid rgba(255,187,0,0.2); padding: 32px; border-radius: 20px;">
+                    <h4 style="color: #ffbb00; font-size: 1.4rem; margin-bottom: 16px;">Weaknesses</h4>
+                    <ul style="color: var(--muted); padding-left: 20px; line-height: 1.8;">
+                        <li>Quality depends on source freshness and schema consistency</li>
+                        <li>Current heuristics are rule-based, not fully ML-trained</li>
+                        <li>Relative feature/theme extraction can miss nuanced semantics</li>
+                        <li>CSV upload flow can be heavy for very large datasets</li>
+                    </ul>
+                </div>
+                <div class="swot-box fade-up-section delay-3"
+                    style="background: rgba(0,212,255,0.05); border: 1px solid rgba(0,212,255,0.2); padding: 32px; border-radius: 20px;">
+                    <h4 style="color: #00d4ff; font-size: 1.4rem; margin-bottom: 16px;">Opportunities</h4>
+                    <ul style="color: var(--muted); padding-left: 20px; line-height: 1.8;">
+                        <li>Integrate with BI/warehouse platforms for live data</li>
+                        <li>Add LLM-based semantic clustering for richer complaint analysis</li>
+                        <li>Build proactive alerts (price drift, sentiment spikes, conversion drops)</li>
+                        <li>Add role-specific views (PM, growth, category owner)</li>
+                        <li>Expand to ad efficiency and inventory planning decisions</li>
+                    </ul>
+                </div>
+                <div class="swot-box fade-up-section delay-4"
+                    style="background: rgba(255,71,87,0.05); border: 1px solid rgba(255,71,87,0.2); padding: 32px; border-radius: 20px;">
+                    <h4 style="color: #ff4757; font-size: 1.4rem; margin-bottom: 16px;">Threats</h4>
+                    <ul style="color: var(--muted); padding-left: 20px; line-height: 1.8;">
+                        <li>Data provider limits or API cost increases</li>
+                        <li>Competitors offering turnkey analytics suites</li>
+                        <li>Model drift from changing customer language or product trends</li>
+                        <li>Overreliance on incomplete inputs without governance</li>
+                        <li>Public exposure without auth/rate limiting if misconfigured</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Tech Stack -->
+        <section class="about-section fade-up-section" style="margin-top: 140px; text-align: center;">
+            <h2 class="section-title" style="font-size: 2.5rem; margin-bottom: 40px;">Technology Stack</h2>
+            <div class="tech-grid"
+                style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
+                <div class="tech-item"
+                    style="padding: 16px 32px; background: var(--card); border: 1px solid var(--line); border-radius: 100px; font-weight: 500;">
+                    <span style="margin-right: 8px;">🐍</span>Python 3.10+ (Pandas & Numpy)
+                </div>
+                <div class="tech-item"
+                    style="padding: 16px 32px; background: var(--card); border: 1px solid var(--line); border-radius: 100px; font-weight: 500;">
+                    <span style="margin-right: 8px;">⚡</span>FastAPI w/ Uvicorn
+                </div>
+                <div class="tech-item"
+                    style="padding: 16px 32px; background: var(--card); border: 1px solid var(--line); border-radius: 100px; font-weight: 500;">
+                    <span style="margin-right: 8px;">🌐</span>Vanilla JS (ES6/PapaParse/html2pdf)
+                </div>
+                <div class="tech-item"
+                    style="padding: 16px 32px; background: var(--card); border: 1px solid var(--line); border-radius: 100px; font-weight: 500;">
+                    <span style="margin-right: 8px;">🎨</span>Vanilla CSS3 (Glassmorphism)
+                </div>
+                <div class="tech-item"
+                    style="padding: 16px 32px; background: var(--card); border: 1px solid var(--line); border-radius: 100px; font-weight: 500;">
+                    <span style="margin-right: 8px;">🚂</span>Railway Backend Hosting
+                </div>
+                <div class="tech-item"
+                    style="padding: 16px 32px; background: var(--card); border: 1px solid var(--line); border-radius: 100px; font-weight: 500;">
+                    <span style="margin-right: 8px;">🔥</span>Firebase App Hosting
+                </div>
+                <div class="tech-item"
+                    style="padding: 16px 32px; background: linear-gradient(135deg, rgba(var(--primary-rgb),0.1), var(--card)); border: 1px solid var(--primary); color: var(--primary); border-radius: 100px; font-weight: 600;">
+                    <span style="margin-right: 8px;">🤖</span>Autonomous AI Reasoner
+                </div>
+            </div>
+        </section>
+
+        <!-- Visual Architecture / How it Works -->
+        <section class="about-section fade-up-section" style="margin-top: 140px;">
+            <h2 class="section-title" style="font-size: 2.5rem; text-align: center; margin-bottom: 60px;">How It Works
+            </h2>
+            <div class="architecture-diagram"
+                style="display: flex; flex-direction: column; gap: 40px; max-width: 800px; margin: 0 auto; position: relative;">
+                <!-- Connecting Line -->
+                <div
+                    style="position: absolute; top: 0; bottom: 0; left: 40px; width: 2px; background: linear-gradient(180deg, var(--primary), transparent); z-index: -1;">
+                </div>
+
+                <div class="arch-step fade-up-section"
+                    style="display: flex; gap: 32px; align-items: center; background: var(--card); padding: 24px; border-radius: 16px; border: 1px solid var(--line);">
+                    <div class="arch-number"
+                        style="width: 50px; height: 50px; border-radius: 50%; background: var(--primary); color: #000; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; font-weight: 800; flex-shrink: 0;">
+                        1</div>
+                    <div>
+                        <h4 style="font-size: 1.4rem; margin-bottom: 8px;">Data Search & Ingestion</h4>
+                        <p style="color: var(--muted); line-height: 1.6;">You don't configure complex graphs; you simply
+                            tell InsightForge what product you want to analyze or upload your Custom CSV. We fetch and
+                            align catalogs, reviews, competitor prices, and performance metrics.</p>
+                    </div>
+                </div>
+
+                <div class="arch-step fade-up-section delay-1"
+                    style="display: flex; gap: 32px; align-items: center; background: var(--card); padding: 24px; border-radius: 16px; border: 1px solid var(--line);">
+                    <div class="arch-number"
+                        style="width: 50px; height: 50px; border-radius: 50%; background: #00d4ff; color: #000; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; font-weight: 800; flex-shrink: 0;">
+                        2</div>
+                    <div>
+                        <h4 style="font-size: 1.4rem; margin-bottom: 8px;">Target Prompt Engineering</h4>
+                        <p style="color: var(--muted); line-height: 1.6;">InsightForge adapts to your priorities
+                            natively. Choosing <strong>Quick Mode</strong> returns actionable tactical advice instantly
+                            for a flash sale. Choosing <strong>Deep Mode</strong> restructures its entire logic to
+                            generate long-term strategic recommendations.</p>
+                    </div>
+                </div>
+
+                <div class="arch-step fade-up-section delay-2"
+                    style="display: flex; gap: 32px; align-items: center; background: var(--card); padding: 24px; border-radius: 16px; border: 1px solid var(--line);">
+                    <div class="arch-number"
+                        style="width: 50px; height: 50px; border-radius: 50%; background: #ffbb00; color: #000; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; font-weight: 800; flex-shrink: 0;">
+                        3</div>
+                    <div>
+                        <h4 style="font-size: 1.4rem; margin-bottom: 8px;">LLM Reasoning Execution</h4>
+                        <p style="color: var(--muted); line-height: 1.6;">The FastAPI backend delegates intelligence
+                            processing to the LLM. It calculates price elasticity against competing SKUs, aggregates
+                            sentiment gaps, and structures evidence around your selected business goal.</p>
+                    </div>
+                </div>
+
+                <div class="arch-step fade-up-section delay-3"
+                    style="display: flex; gap: 32px; align-items: center; background: var(--card); padding: 24px; border-radius: 16px; border: 1px solid var(--line);">
+                    <div class="arch-number"
+                        style="width: 50px; height: 50px; border-radius: 50%; background: #ff4757; color: #fff; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; font-weight: 800; flex-shrink: 0;">
+                        4</div>
+                    <div>
+                        <h4 style="font-size: 1.4rem; margin-bottom: 8px;">Actionable Output & Resilience</h4>
+                        <p style="color: var(--muted); line-height: 1.6;">The frontend receives a markdown report
+                            containing prioritized Next Actions, a Dynamic Confidence Score you can trust, and
+                            downloadable PDFs. And thanks to our built-in offline fallbacks, the App degrades gracefully
+                            under all network conditions.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Bibliography / Datasets -->
+        <section class="about-section fade-up-section" style="margin-top: 140px;">
+            <h2 class="section-title" style="font-size: 2.5rem; text-align: center; margin-bottom: 40px;">Bibliography &
+                Datasets</h2>
+            <div class="about-card"
+                style="background: rgba(0,0,0,0.3); border: 1px solid var(--line); padding: 40px; border-radius: 20px; max-width: 900px; margin: 0 auto;">
+                <p style="font-size: 1.2rem; margin-bottom: 24px;">All core sample data used for the demonstration and
+                    heuristics testing was curated from open datasets and synthetic benchmarks.</p>
+                <ul
+                    style="color: var(--muted); line-height: 2; font-size: 1.1rem; list-style-type: square; padding-left: 24px;">
+                    <li><strong>Product Catalog:</strong> <a
+                            href="https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset" target="_blank"
+                            style="color:var(--primary); text-decoration: none;">Amazon Sales Dataset (Kaggle)</a> —
+                        Base SKUs, broad category descriptions, and pricing hierarchy.</li>
+                    <li><strong>Reviews & Sentiment:</strong> <a
+                            href="https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products"
+                            target="_blank" style="color:var(--primary); text-decoration: none;">Consumer Reviews of
+                            Amazon Products (Kaggle)</a> — Real-world consumer textual feedback spanning electronics to
+                        apparel.</li>
+                    <li><strong>Competitive Market Datasets:</strong> <a
+                            href="https://www.kaggle.com/datasets/saurav9786/amazon-product-size-and-information-dataset"
+                            target="_blank" style="color:var(--primary); text-decoration: none;">Amazon Product Size and
+                            Information Dataset</a> — Used to construct synthetic competitors.</li>
+                    <li><strong>Pricing & Performance Benchmarks:</strong> Custom generated synthetics modeled after
+                        standard competitive elasticity distributions tailored to specific SKUs.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Team Section -->
+        <section class="about-section fade-up-section" style="margin-top: 140px; padding-bottom: 100px;">
+            <h2 class="section-title" style="font-size: 2.5rem; text-align: center; margin-bottom: 40px;">Meet Our Team
+            </h2>
+            <div style="text-align: center; margin-bottom: 60px;">
+                <a href="https://github.com/PrabhnoorSingh-IITM/InsightForge" target="_blank" class="btn-hero"
+                    style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; padding: 16px 32px; width: auto; font-size: 1.1rem;">
+                    <svg viewBox="0 0 24 24" style="width: 24px; height: 24px; fill: #000; margin-right: 12px;">
+                        <path
+                            d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z" />
+                    </svg>
+                    <span style="color: #000 !important;">See Source Code</span>
+                </a>
+            </div>
+            <div class="team-grid" style="display: flex; justify-content: center; gap: 32px; flex-wrap: wrap;">
+
+                <!-- Prabhnoor -->
+                <div class="team-card fade-up-section"
+                    style="background: var(--card); border: 1px solid var(--line); border-radius: 24px; padding: 40px; text-align: center; width: 300px; transition: transform 0.3s ease;">
+                    <div class="team-avatar"
+                        style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, var(--primary), var(--primary-2)); color: #000; font-size: 2.5rem; font-weight: 800; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 24px;">
+                        PS</div>
+                    <h4 style="font-size: 1.5rem; margin-bottom: 8px;">Prabhnoor Singh</h4>
+                    <p class="team-role" style="color: var(--primary); font-weight: 500; margin-bottom: 24px;">Full
+                        Stack & AI Engineer</p>
+                    <div class="team-links" style="display: flex; justify-content: center; gap: 16px;">
+                        <a href="https://github.com/PrabhnoorSingh-IITM" target="_blank"
+                            style="padding: 10px 24px; background: rgba(255,255,255,0.05); border: 1px solid var(--line); border-radius: 100px; color: var(--text); text-decoration: none; transition: 0.3s;">GitHub</a>
+                        <a href="https://www.linkedin.com/in/prabhnoor-singh7/" target="_blank"
+                            style="padding: 10px 24px; background: rgba(0,212,255,0.1); border: 1px solid rgba(0,212,255,0.3); border-radius: 100px; color: #00d4ff; text-decoration: none; transition: 0.3s;">LinkedIn</a>
+                    </div>
+                </div>
+
+                <!-- Nilabh -->
+                <div class="team-card fade-up-section delay-1"
+                    style="background: var(--card); border: 1px solid var(--line); border-radius: 24px; padding: 40px; text-align: center; width: 300px; transition: transform 0.3s ease;">
+                    <div class="team-avatar"
+                        style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #00d4ff, #00ff88); color: #000; font-size: 2.5rem; font-weight: 800; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 24px;">
+                        NK</div>
+                    <h4 style="font-size: 1.5rem; margin-bottom: 8px;">Nilabh Kalia</h4>
+                    <p class="team-role" style="color: var(--primary); font-weight: 500; margin-bottom: 24px;">AI & Data
+                        Engineer</p>
+                    <div class="team-links" style="display: flex; justify-content: center; gap: 16px;">
+                        <a href="https://github.com/nilabh101" target="_blank"
+                            style="padding: 10px 24px; background: rgba(255,255,255,0.05); border: 1px solid var(--line); border-radius: 100px; color: var(--text); text-decoration: none; transition: 0.3s;">GitHub</a>
+                        <a href="https://www.linkedin.com/in/nilabh-kalia-7a3251361/" target="_blank"
+                            style="padding: 10px 24px; background: rgba(0,212,255,0.1); border: 1px solid rgba(0,212,255,0.3); border-radius: 100px; color: #00d4ff; text-decoration: none; transition: 0.3s;">LinkedIn</a>
+                    </div>
+                </div>
+
+                <!-- Agambir -->
+                <div class="team-card fade-up-section delay-2"
+                    style="background: var(--card); border: 1px solid var(--line); border-radius: 24px; padding: 40px; text-align: center; width: 300px; transition: transform 0.3s ease;">
+                    <div class="team-avatar"
+                        style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #ffbb00, #ff4757); color: #fff; font-size: 2.5rem; font-weight: 800; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 24px;">
+                        AS</div>
+                    <h4 style="font-size: 1.5rem; margin-bottom: 8px;">Agambir Singh</h4>
+                    <p class="team-role" style="color: var(--primary); font-weight: 500; margin-bottom: 24px;">Software
+                        Engineer</p>
+                    <div class="team-links" style="display: flex; justify-content: center; gap: 16px;">
+                        <a href="https://github.com/agambirsingh21" target="_blank"
+                            style="padding: 10px 24px; background: rgba(255,255,255,0.05); border: 1px solid var(--line); border-radius: 100px; color: var(--text); text-decoration: none; transition: 0.3s;">GitHub</a>
+                        <a href="https://www.linkedin.com/in/agambir-singh-7877503b1/" target="_blank"
+                            style="padding: 10px 24px; background: rgba(0,212,255,0.1); border: 1px solid rgba(0,212,255,0.3); border-radius: 100px; color: #00d4ff; text-decoration: none; transition: 0.3s;">LinkedIn</a>
+                    </div>
+                </div>
+
+                <!-- Asees -->
+                <div class="team-card fade-up-section delay-3"
+                    style="background: var(--card); border: 1px solid var(--line); border-radius: 24px; padding: 40px; text-align: center; width: 300px; transition: transform 0.3s ease;">
+                    <div class="team-avatar"
+                        style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #a29bfe, #6c5ce7); color: #fff; font-size: 2.5rem; font-weight: 800; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 24px;">
+                        AK</div>
+                    <h4 style="font-size: 1.5rem; margin-bottom: 8px;">Asees Kaur</h4>
+                    <p class="team-role" style="color: var(--primary); font-weight: 500; margin-bottom: 24px;">Software
+                        Engineer</p>
+                    <div class="team-links" style="display: flex; justify-content: center; gap: 16px;">
+                        <a href="https://github.com/aseeskaur08" target="_blank"
+                            style="padding: 10px 24px; background: rgba(255,255,255,0.05); border: 1px solid var(--line); border-radius: 100px; color: var(--text); text-decoration: none; transition: 0.3s;">GitHub</a>
+                        <a href="https://www.linkedin.com/in/asees-kaur-285810389" target="_blank"
+                            style="padding: 10px 24px; background: rgba(0,212,255,0.1); border: 1px solid rgba(0,212,255,0.3); border-radius: 100px; color: #00d4ff; text-decoration: none; transition: 0.3s;">LinkedIn</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+</body>
+
+</html>

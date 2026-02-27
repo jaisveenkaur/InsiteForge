@@ -1,0 +1,32 @@
+[
+  {
+    "sku": "EB-100",
+    "rating": 2,
+    "text": "Battery drains too fast and fit is poor",
+    "themes": ["battery", "fit"]
+  },
+  {
+    "sku": "EB-100",
+    "rating": 1,
+    "text": "Left earbud stopped working in a week",
+    "themes": ["product quality"]
+  },
+  {
+    "sku": "EB-200",
+    "rating": 4,
+    "text": "Sound is good but case feels cheap",
+    "themes": ["build quality"]
+  },
+  {
+    "sku": "SS-100",
+    "rating": 5,
+    "text": "Visible skin glow in 2 weeks",
+    "themes": ["efficacy"]
+  },
+  {
+    "sku": "EB-200",
+    "rating": 2,
+    "text": "ANC is weak and battery backup is average",
+    "themes": ["anc performance", "battery"]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "mode": "deep",
+  "query": "Summarize customer sentiment and key risks for this catalog.",
+  "business_goal": "growth",
+  "scope": {
+    "marketplaces": ["Amazon"],
+    "category_or_product": "Multi-category product set",
+    "region": "India",
+    "timeframe": "Current dataset snapshot"
+  },
+  "data_sources": {
+    "catalog": { "path": "catalog.json" },
+    "reviews": { "path": "reviews.json" },
+    "pricing": { "path": "pricing.json" },
+    "competitors": { "path": "competitors.json" },
+    "performance_signals": { "path": "performance_signals.json" }
+  },
+  "kpi_priority": ["GMV", "conversion_rate", "margin"],
+  "constraints": [
+    "Highlight key risks",
+    "Include competitive context"
+  ],
+  "analysis_theme": "Kaggle dataset onboarding analysis"
+}

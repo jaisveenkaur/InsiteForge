@@ -1,0 +1,23 @@
+{
+  "mode": "quick",
+  "business_goal": "profitability",
+  "scope": {
+    "marketplaces": ["Amazon", "Flipkart"],
+    "category_or_product": "Bluetooth Earbuds",
+    "region": "India",
+    "timeframe": "Last 30 days"
+  },
+  "data_available": {
+    "catalog": true,
+    "reviews": true,
+    "pricing": true,
+    "competitors": true,
+    "performance_signals": false
+  },
+  "kpi_priority": ["margin", "conversion_rate", "GMV"],
+  "constraints": [
+    "Focus on top negative review themes",
+    "Compare only top 5 premium competitors"
+  ],
+  "analysis_theme": "Pricing pressure vs review sentiment"
+}

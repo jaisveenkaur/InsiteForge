@@ -1,0 +1,29 @@
+{
+  "business_goal": "profitability",
+  "mode": "deep",
+  "scope": {
+    "category_or_product": "Premium Headphones",
+    "marketplaces": [
+      "Amazon",
+      "Shopify"
+    ],
+    "timeframe": "Last 12 Months"
+  },
+  "data_sources": {
+    "catalog": {
+      "path": "datasets/catalog.json"
+    },
+    "reviews": {
+      "path": "datasets/reviews.json"
+    },
+    "pricing": {
+      "path": "datasets/pricing.json"
+    },
+    "competitors": {
+      "path": "datasets/competitors.json"
+    },
+    "performance_signals": {
+      "path": "datasets/performance_signals.json"
+    }
+  }
+}

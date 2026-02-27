@@ -1,0 +1,26 @@
+[
+  {
+    "sku": "EB-100",
+    "views": 12000,
+    "conversions": 180,
+    "returns": 40
+  },
+  {
+    "sku": "EB-200",
+    "views": 9000,
+    "conversions": 135,
+    "returns": 26
+  },
+  {
+    "sku": "SS-100",
+    "views": 7000,
+    "conversions": 210,
+    "returns": 18
+  },
+  {
+    "sku": "NF-100",
+    "views": 4500,
+    "conversions": 72,
+    "returns": 11
+  }
+]

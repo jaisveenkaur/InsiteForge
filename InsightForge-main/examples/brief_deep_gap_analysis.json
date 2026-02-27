@@ -1,0 +1,24 @@
+{
+  "mode": "deep",
+  "query": "What features do customers want but competitors don't offer?",
+  "business_goal": "growth",
+  "scope": {
+    "marketplaces": ["Amazon", "Shopify", "D2C"],
+    "category_or_product": "Bluetooth Earbuds",
+    "region": "India",
+    "timeframe": "Last 2 quarters"
+  },
+  "data_sources": {
+    "catalog": { "path": "datasets/catalog.json" },
+    "reviews": { "path": "datasets/reviews.json" },
+    "pricing": { "path": "datasets/pricing.json" },
+    "competitors": { "path": "datasets/competitors.json" },
+    "performance_signals": { "path": "datasets/performance_signals.json" }
+  },
+  "kpi_priority": ["GMV", "LTV", "CAC", "conversion_rate"],
+  "constraints": [
+    "Compare only premium competitors",
+    "Support actionable product roadmap changes"
+  ],
+  "analysis_theme": "Competitive feature gap analysis"
+}

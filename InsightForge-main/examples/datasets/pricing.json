@@ -1,0 +1,30 @@
+[
+  {
+    "sku": "EB-100",
+    "our_price": 2499,
+    "competitor": "SoundGo X",
+    "competitor_price": 2199,
+    "tier": "premium"
+  },
+  {
+    "sku": "EB-200",
+    "our_price": 3299,
+    "competitor": "AudioMax Pro",
+    "competitor_price": 3199,
+    "tier": "premium"
+  },
+  {
+    "sku": "SS-100",
+    "our_price": 1899,
+    "competitor": "GlowLab C",
+    "competitor_price": 1999,
+    "tier": "mass"
+  },
+  {
+    "sku": "NF-100",
+    "our_price": 2799,
+    "competitor": "FitFuel",
+    "competitor_price": 2599,
+    "tier": "premium"
+  }
+]

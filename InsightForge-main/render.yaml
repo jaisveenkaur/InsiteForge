@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: ecommerce-intelligence-agent
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.1
+      - key: ECOM_AGENT_API_KEY
+        sync: false

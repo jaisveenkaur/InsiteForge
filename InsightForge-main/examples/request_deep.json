@@ -1,0 +1,24 @@
+{
+  "mode": "deep",
+  "business_goal": "growth",
+  "scope": {
+    "marketplaces": ["Amazon", "Shopify", "D2C"],
+    "category_or_product": "Skincare Serums",
+    "region": "US",
+    "timeframe": "Last 2 quarters"
+  },
+  "data_available": {
+    "catalog": true,
+    "reviews": true,
+    "pricing": true,
+    "competitors": true,
+    "performance_signals": true
+  },
+  "kpi_priority": ["GMV", "LTV", "CAC", "conversion_rate"],
+  "constraints": [
+    "Highlight demand-supply imbalance",
+    "Separate opportunity by price tier",
+    "Include retention implications"
+  ],
+  "analysis_theme": "Market positioning and feature gap assessment"
+}

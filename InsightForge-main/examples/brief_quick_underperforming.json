@@ -1,0 +1,25 @@
+{
+  "mode": "quick",
+  "query": "Why is this product underperforming?",
+  "business_goal": "profitability",
+  "scope": {
+    "marketplaces": ["Amazon", "Flipkart"],
+    "category_or_product": "Bluetooth Earbuds",
+    "region": "India",
+    "timeframe": "Last 30 days"
+  },
+  "data_sources": {
+    "catalog": { "path": "datasets/catalog.json" },
+    "reviews": { "path": "datasets/reviews.json" },
+    "pricing": { "path": "datasets/pricing.json" },
+    "competitors": { "path": "datasets/competitors.json" },
+    "performance_signals": { "path": "datasets/performance_signals.json" }
+  },
+  "kpi_priority": ["margin", "conversion_rate", "GMV"],
+  "constraints": [
+    "Focus on negative reviews only",
+    "Compare only premium competitors",
+    "Optimize for margins instead"
+  ],
+  "analysis_theme": "Underperformance diagnosis"
+}

@@ -1,0 +1,26 @@
+{
+  "mode": "deep",
+  "query": "Diagnose underperformance and identify strategic margin-improving actions for SKU-472 compared to competitors.",
+  "business_goal": "profitability",
+  "scope": {
+    "marketplaces": ["Amazon"],
+    "category_or_product": "SKU-472",
+    "region": "India",
+    "timeframe": "Current dataset snapshot"
+  },
+  "constraints": [
+    "Prioritize margin improvement over growth",
+    "Focus on negative reviews for root-cause analysis",
+    "Compare only premium competitors",
+    "Flag unreliable or incomplete data explicitly"
+  ],
+  "data_sources": {
+    "catalog": { "path": "catalog.json" },
+    "reviews": { "path": "reviews.json" },
+    "pricing": { "path": "pricing.json" },
+    "competitors": { "path": "competitors.json" },
+    "performance_signals": { "path": "performance_signals.json" }
+  },
+  "kpi_priority": ["margin", "conversion_rate", "GMV"],
+  "analysis_theme": "SKU underperformance profitability diagnosis"
+}

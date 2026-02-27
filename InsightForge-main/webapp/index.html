@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>InsightForge - E-Commerce Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+
+<body>
+  <!-- Custom Cursor Glow -->
+  <div class="cursor-glow" id="cursorGlow"></div>
+
+  <!-- Animated Background Orbs -->
+  <div class="bg-orbs" id="parallaxBg">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+  </div>
+
+  <!-- Navigation Header -->
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="brand" style="text-decoration: none;">
+        <h1>
+          <span>⚡</span>
+          InsightForge
+        </h1>
+        <p>Intelligence Platform</p>
+      </a>
+
+      <button class="mobile-menu-toggle" id="mobileMenuBtn" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav class="main-nav" id="mainNav">
+        <a href="index.html" class="nav-active">Home</a>
+        <a href="dashboard.html">App</a>
+        <a href="about.html">The Story</a>
+      </nav>
+
+      <div style="display: flex; align-items: center; gap: 20px;">
+        <a href="https://github.com/PrabhnoorSingh-IITM/InsightForge" target="_blank" class="github-link"
+          title="Source Code">
+          <svg viewBox="0 0 24 24">
+            <path
+              d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z" />
+          </svg>
+        </a>
+        <div class="status-badges">
+          <span id="healthBadge" class="badge">🟢 System</span>
+          <span id="authBadge" class="badge">🟢 Auth</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section with Story -->
+  <section class="hero-story" id="heroSection">
+    <div class="hero-inner">
+      <!-- Hero Header -->
+      <div class="hero-header">
+        <div class="hero-tagline">AI Research Agent</div>
+        <h1 class="hero-title">
+          Scale Your E-Commerce <br />
+          Strategy with Data
+        </h1>
+        <p class="hero-description">
+          Stop guessing. Our AI agent analyzes market gaps, competitor data, and customer sentiment to build a winning
+          roadmap for your product.
+        </p>
+      </div>
+
+      <!-- Arrow Down / Transition -->
+      <div style="margin-bottom: 40px;">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="2">
+          <path d="M7 13l5 5 5-5M7 6l5 5 5-5" />
+        </svg>
+      </div>
+
+      <!-- 3 Steps Cards -->
+      <div class="steps-grid">
+        <div class="step-card fade-up-section">
+          <div class="step-number">01</div>
+          <h3>Define Goal</h3>
+          <p>Choose "Quick" for instant checks or "Deep" for comprehensive strategy. Target growth, retention, or
+            profitability.</p>
+        </div>
+        <div class="step-card highlight fade-up-section" style="transition-delay: 0.1s;">
+          <div class="step-number">02</div>
+          <h3>Connect Data</h3>
+          <p>Upload your CSVs or use our validated market datasets. The system automatically maps and cleans your data.
+          </p>
+        </div>
+        <div class="step-card fade-up-section" style="transition-delay: 0.2s;">
+          <div class="step-number">03</div>
+          <h3>Unlock Insights</h3>
+          <p>Get a strategic report with confidence scores, risk factors, and clear action items—generated in seconds.
+          </p>
+        </div>
+      </div>
+
+      <!-- CTA Button -->
+      <div style="margin-top: 60px;">
+        <button class="btn-hero" id="startBtn">
+          <span>Start Research Analysis</span>
+          <span class="btn-icon">→</span>
+        </button>
+      </div>
+
+      <!-- Preview Section -->
+      <div class="hero-preview">
+        <div class="preview-label">Live System Preview</div>
+        <div class="preview-grid">
+          <div class="preview-card">
+            <h4>Analysis Engine</h4>
+            <p>Ready</p>
+          </div>
+          <div class="preview-card">
+            <h4>Data Pipeline</h4>
+            <p>Active</p>
+          </div>
+          <div class="preview-card">
+            <h4>Market Signals</h4>
+            <p>Tracking</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What We Do Section -->
+  <section class="what-we-do fade-up-section" style="padding: 60px 24px; position: relative;">
+    <div class="container"
+      style="max-width: 900px; text-align: center; margin: 0 auto; background: linear-gradient(180deg, rgba(26, 34, 40, 0.4) 0%, rgba(26, 34, 40, 0.1) 100%); border: 1px solid rgba(255, 255, 255, 0.05); border-radius: 32px; padding: 64px 40px; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); box-shadow: 0 24px 48px rgba(0,0,0,0.3);">
+      <div
+        style="display: inline-flex; align-items: center; justify-content: center; width: 64px; height: 64px; background: rgba(var(--primary-rgb), 0.1); border-radius: 20px; font-size: 2rem; margin-bottom: 24px; color: var(--primary); box-shadow: 0 0 30px rgba(var(--primary-rgb), 0.2);">
+        🧠
+      </div>
+      <h2
+        style="font-size: clamp(2.5rem, 5vw, 3.5rem); margin-top: 0; margin-bottom: 24px; font-weight: 800; background: linear-gradient(135deg, #ffffff, var(--primary-2), var(--primary)); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; filter: drop-shadow(0 0 15px rgba(0,255,136,0.3));">
+        What We Do</h2>
+      <p
+        style="font-size: 1.25rem; color: var(--text); opacity: 0.9; line-height: 1.8; margin-bottom: 0; max-width: 700px; margin-inline: auto;">
+        InsightForge bridges the gap between raw data and strategic decisions. We provide an intelligent, automated
+        dashboard that tracks competitor metrics, analyzes customer reviews, and spots market opportunities so you can
+        focus on building your brand instead of wrestling with spreadsheets.
+      </p>
+
+      <div class="features-grid"
+        style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 24px; text-align: left;">
+        <div class="feature-box fade-up-section"
+          style="background: rgba(255,255,255,0.03); border: 1px solid var(--line); padding: 24px; border-radius: 16px;">
+          <h3 style="color: var(--primary); margin-bottom: 12px; font-size: 1.3rem;">📊 Competitor Tracking</h3>
+          <p style="color: var(--muted); font-size: 0.95rem;">Monitor pricing, reviews, and catalog shifts of top market
+            players to stay ahead.</p>
+        </div>
+        <div class="feature-box fade-up-section"
+          style="background: rgba(255,255,255,0.03); border: 1px solid var(--line); padding: 24px; border-radius: 16px; transition-delay: 0.1s;">
+          <h3 style="color: var(--primary); margin-bottom: 12px; font-size: 1.3rem;">💬 Sentiment Analysis</h3>
+          <p style="color: var(--muted); font-size: 0.95rem;">Understand what customers truly want by automatically
+            decoding thousands of reviews.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Storytelling Narrative Section -->
+  <section class="story-block fade-up-section">
+    <div class="story-icon">💡</div>
+    <h2>The Ecommerce Gap</h2>
+    <p class="story-lead">
+      You have reviews on Amazon, catalog data in Shopify, pricing in a spreadsheet,
+      and competitor listings in a web scraper. Most dashboards just show you up-and-down charts.
+    </p>
+    <div class="story-highlight">
+      InsightForge changes the paradigm.
+    </div>
+    <p class="story-conclusion">
+      We read the messy, multi-source data to generate clear, tactical business reports.
+      It’s not just reporting metrics—it’s answering <span class="highlight-text">"What do we do next?"</span>
+    </p>
+  </section>
+
+  <footer class="footer">
+    <p>InsightForge © 2026 • Powering E-Commerce Intelligence</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script type="module" src="config.js?v=2"></script>
+  <script type="module" src="api.js?v=2"></script>
+  <script type="module" src="app.js?v=2"></script>
+</body>
+
+</html>

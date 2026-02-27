@@ -1,0 +1,32 @@
+{
+  "preferred_kpis": [
+    "GMV",
+    "conversion_rate",
+    "margin",
+    "LTV",
+    "CAC"
+  ],
+  "target_marketplaces": [
+    "Amazon",
+    "Flipkart",
+    "Shopify",
+    "D2C"
+  ],
+  "product_categories": [
+    "Bluetooth Earbuds",
+    "Skincare Serums",
+    "Portfolio Expansion",
+    "Multi-category product set",
+    "SKU-472"
+  ],
+  "past_analysis_themes": [
+    "Pricing pressure vs review sentiment",
+    "Market positioning and feature gap assessment",
+    "Underperformance diagnosis",
+    "Competitive feature gap analysis",
+    "Category expansion strategy",
+    "Kaggle dataset onboarding analysis",
+    "SKU underperformance profitability diagnosis"
+  ],
+  "last_updated": "2026-02-20"
+}

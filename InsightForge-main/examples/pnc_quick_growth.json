@@ -1,0 +1,28 @@
+{
+  "business_goal": "growth",
+  "mode": "quick",
+  "scope": {
+    "category_or_product": "Smart Watches",
+    "marketplaces": [
+      "Amazon"
+    ],
+    "timeframe": "Q3 2023"
+  },
+  "data_sources": {
+    "catalog": {
+      "path": "datasets/catalog.json"
+    },
+    "reviews": {
+      "path": "datasets/reviews.json"
+    },
+    "pricing": {
+      "path": "datasets/pricing.json"
+    },
+    "competitors": {
+      "path": "datasets/competitors.json"
+    },
+    "performance_signals": {
+      "path": "datasets/performance_signals.json"
+    }
+  }
+}

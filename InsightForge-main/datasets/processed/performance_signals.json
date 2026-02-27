@@ -1,0 +1,9459 @@
+[
+  {
+    "sku": "B07JW9H4J1",
+    "views": 17100,
+    "conversions": 300,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B098NS6PVG",
+    "views": 9450,
+    "conversions": 151,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B096MSW6CT",
+    "views": 8100,
+    "conversions": 123,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HDJ86NZ",
+    "views": 18450,
+    "conversions": 324,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CF3B7N1",
+    "views": 11700,
+    "conversions": 205,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08Y1TFSP6",
+    "views": 11250,
+    "conversions": 171,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08WRWPM22",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08DDRGWTJ",
+    "views": 9900,
+    "conversions": 182,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B008IFXQFU",
+    "views": 18450,
+    "conversions": 324,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B082LZGK39",
+    "views": 9450,
+    "conversions": 151,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CF3D7QR",
+    "views": 17550,
+    "conversions": 322,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0789LZTCJ",
+    "views": 18450,
+    "conversions": 324,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07KSMBL2H",
+    "views": 15750,
+    "conversions": 302,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B085DTN6R2",
+    "views": 9000,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09KLVMZ3B",
+    "views": 16200,
+    "conversions": 272,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B083342NKJ",
+    "views": 13950,
+    "conversions": 267,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B6F7LX4C",
+    "views": 8550,
+    "conversions": 150,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B082LSVT4B",
+    "views": 8100,
+    "conversions": 129,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08WRBG3XW",
+    "views": 9000,
+    "conversions": 151,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08DPLCM6T",
+    "views": 10800,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09C6HXFC1",
+    "views": 10175,
+    "conversions": 203,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B085194JFL",
+    "views": 15300,
+    "conversions": 208,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09F6S8BT6",
+    "views": 16650,
+    "conversions": 306,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NHVCHS9",
+    "views": 8100,
+    "conversions": 129,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B1YVCJ2Y",
+    "views": 15750,
+    "conversions": 289,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01M4GGIVU",
+    "views": 10800,
+    "conversions": 190,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08B42LWKN",
+    "views": 18000,
+    "conversions": 316,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B094JNXNPV",
+    "views": 17100,
+    "conversions": 273,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09W5XR9RT",
+    "views": 3680,
+    "conversions": 70,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B077Z65HSD",
+    "views": 15750,
+    "conversions": 289,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00NH11PEY",
+    "views": 13950,
+    "conversions": 279,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09CMM3VGK",
+    "views": 11250,
+    "conversions": 180,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08QSC1XY8",
+    "views": 14400,
+    "conversions": 264,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B008FWZGSG",
+    "views": 6372,
+    "conversions": 117,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4HJNPV4",
+    "views": 11700,
+    "conversions": 177,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08Y1SJVV5",
+    "views": 19350,
+    "conversions": 294,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07XLCFSSN",
+    "views": 20250,
+    "conversions": 388,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09RZS1NQT",
+    "views": 5184,
+    "conversions": 82,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3MMYHYW",
+    "views": 18900,
+    "conversions": 332,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09C6HWG18",
+    "views": 9933,
+    "conversions": 174,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00NH11KIK",
+    "views": 10350,
+    "conversions": 207,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09JPC82QC",
+    "views": 18000,
+    "conversions": 331,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JW1Y6XV",
+    "views": 13950,
+    "conversions": 245,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07KRCW6LZ",
+    "views": 12600,
+    "conversions": 231,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NJN8L25",
+    "views": 11700,
+    "conversions": 187,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07XJYYH7L",
+    "views": 9900,
+    "conversions": 102,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B002PD61Y4",
+    "views": 10800,
+    "conversions": 181,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B014I8SSD0",
+    "views": 18900,
+    "conversions": 362,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09L8DSSFH",
+    "views": 6888,
+    "conversions": 88,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07232M876",
+    "views": 9450,
+    "conversions": 166,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07P681N66",
+    "views": 9000,
+    "conversions": 172,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0711PVX6Z",
+    "views": 13500,
+    "conversions": 237,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B082T6V3DT",
+    "views": 9450,
+    "conversions": 173,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07MKFNHKG",
+    "views": 13050,
+    "conversions": 229,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BFWGBX61",
+    "views": 7065,
+    "conversions": 118,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01N90RZ4M",
+    "views": 13050,
+    "conversions": 177,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0088TKTY2",
+    "views": 16650,
+    "conversions": 293,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Q5SWVBJ",
+    "views": 11700,
+    "conversions": 205,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4DT8MKT",
+    "views": 14104,
+    "conversions": 248,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CDKQ8T6",
+    "views": 8550,
+    "conversions": 157,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07B275VN9",
+    "views": 18450,
+    "conversions": 250,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B15CPR37",
+    "views": 14400,
+    "conversions": 264,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0994GFWBH",
+    "views": 15750,
+    "conversions": 252,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01GGKZ0V6",
+    "views": 9450,
+    "conversions": 166,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09F9YQQ7B",
+    "views": 13500,
+    "conversions": 237,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B014I8SX4Y",
+    "views": 9000,
+    "conversions": 172,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Q8HMKZX",
+    "views": 7875,
+    "conversions": 132,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B9XN9S3W",
+    "views": 6156,
+    "conversions": 113,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07966M8XH",
+    "views": 19800,
+    "conversions": 348,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01GGKYKQM",
+    "views": 17100,
+    "conversions": 314,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B86CDHL1",
+    "views": 2738,
+    "conversions": 54,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5ZF3NRK",
+    "views": 4725,
+    "conversions": 79,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09RFC46VP",
+    "views": 13050,
+    "conversions": 229,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08R69VDHT",
+    "views": 16200,
+    "conversions": 259,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09RWZRCP1",
+    "views": 10800,
+    "conversions": 181,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09CMP1SC8",
+    "views": 12040,
+    "conversions": 202,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YLXYP7Y",
+    "views": 9000,
+    "conversions": 144,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09ZPM4C2C",
+    "views": 3781,
+    "conversions": 63,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2DJDCPX",
+    "views": 10452,
+    "conversions": 158,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BCZCQTJX",
+    "views": 625,
+    "conversions": 10,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07LGT55SJ",
+    "views": 18900,
+    "conversions": 332,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NKZXMWJ",
+    "views": 12150,
+    "conversions": 194,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08QX1CC14",
+    "views": 9000,
+    "conversions": 100,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0974H97TJ",
+    "views": 20250,
+    "conversions": 388,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GVGTSLN",
+    "views": 11250,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09VCHLSJF",
+    "views": 20250,
+    "conversions": 356,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B1YZX72F",
+    "views": 9450,
+    "conversions": 173,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B092BJMT8Q",
+    "views": 13500,
+    "conversions": 248,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BMXMLSMM",
+    "views": 1638,
+    "conversions": 32,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JH1C41D",
+    "views": 14400,
+    "conversions": 253,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0141EZMAI",
+    "views": 17100,
+    "conversions": 218,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Q5P2MT3",
+    "views": 19800,
+    "conversions": 348,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HDH26JX",
+    "views": 13050,
+    "conversions": 229,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09VT6JKRP",
+    "views": 4876,
+    "conversions": 81,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09T3KB6JZ",
+    "views": 13050,
+    "conversions": 229,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B093QCY6YJ",
+    "views": 13050,
+    "conversions": 177,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B093ZNQZ2Y",
+    "views": 10800,
+    "conversions": 155,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08LKS3LSP",
+    "views": 17550,
+    "conversions": 238,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00V4BGDKU",
+    "views": 11700,
+    "conversions": 234,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CHKQ8D4",
+    "views": 18000,
+    "conversions": 302,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09BW334ML",
+    "views": 17550,
+    "conversions": 322,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B082T6GVLJ",
+    "views": 17100,
+    "conversions": 314,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07DL1KC3H",
+    "views": 9000,
+    "conversions": 144,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B6F98KJJ",
+    "views": 16650,
+    "conversions": 293,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JNVF678",
+    "views": 17100,
+    "conversions": 300,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09QGZFBPM",
+    "views": 10350,
+    "conversions": 190,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JGDB5M1",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0981XSZJ7",
+    "views": 15703,
+    "conversions": 288,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B9XLX8VR",
+    "views": 11250,
+    "conversions": 207,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08Y5KXR6Z",
+    "views": 10350,
+    "conversions": 157,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09F6VHQXB",
+    "views": 14400,
+    "conversions": 241,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0974G5Q2Y",
+    "views": 13500,
+    "conversions": 248,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YL9SN9B",
+    "views": 11700,
+    "conversions": 215,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09RX1FK54",
+    "views": 17100,
+    "conversions": 287,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09TT6BFDX",
+    "views": 10080,
+    "conversions": 201,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09KH58JZR",
+    "views": 15750,
+    "conversions": 264,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09DDCQFMT",
+    "views": 7375,
+    "conversions": 94,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08RP2L2NL",
+    "views": 17550,
+    "conversions": 210,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4G2MWSB",
+    "views": 12600,
+    "conversions": 201,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B21C4BMX",
+    "views": 2904,
+    "conversions": 41,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B084MZXJNK",
+    "views": 18900,
+    "conversions": 362,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BHZCNC4P",
+    "views": 1050,
+    "conversions": 14,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B16KD737",
+    "views": 5624,
+    "conversions": 103,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B099K9ZX65",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08Y55LPBF",
+    "views": 19800,
+    "conversions": 348,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B015OW3M1W",
+    "views": 8550,
+    "conversions": 143,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01D5H8ZI8",
+    "views": 19350,
+    "conversions": 356,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09X1M3DHX",
+    "views": 12600,
+    "conversions": 221,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MM6P76N",
+    "views": 4260,
+    "conversions": 74,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01D5H8LDM",
+    "views": 11700,
+    "conversions": 224,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B1YY6JJL",
+    "views": 9000,
+    "conversions": 165,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09QGZM8QB",
+    "views": 10800,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08L4SBJRY",
+    "views": 16200,
+    "conversions": 259,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09X79PP8F",
+    "views": 1600,
+    "conversions": 24,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B082T6GVG9",
+    "views": 12600,
+    "conversions": 221,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3XY5YT4",
+    "views": 10800,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4HKH19N",
+    "views": 17100,
+    "conversions": 259,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08TGG316Z",
+    "views": 14850,
+    "conversions": 308,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B071VMP1Z4",
+    "views": 13500,
+    "conversions": 205,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B071SDRGWL",
+    "views": 17100,
+    "conversions": 314,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08PSQRW2T",
+    "views": 14400,
+    "conversions": 241,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0859M539M",
+    "views": 9900,
+    "conversions": 190,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08RX8G496",
+    "views": 3692,
+    "conversions": 35,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B002SZEOLG",
+    "views": 9900,
+    "conversions": 174,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CS3BT4L",
+    "views": 11250,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00RFWNJMC",
+    "views": 18450,
+    "conversions": 250,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B082T6GXS5",
+    "views": 15750,
+    "conversions": 315,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09CMQRQM6",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B005LJQMCK",
+    "views": 11700,
+    "conversions": 205,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09C6H53KH",
+    "views": 7913,
+    "conversions": 139,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BB3CBFBM",
+    "views": 3780,
+    "conversions": 63,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08QSDKFGQ",
+    "views": 13950,
+    "conversions": 256,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08PV1X771",
+    "views": 16200,
+    "conversions": 298,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YTNKVJQ",
+    "views": 13500,
+    "conversions": 248,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0117H7GZ6",
+    "views": 13050,
+    "conversions": 146,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XJ1LM7R",
+    "views": 625,
+    "conversions": 11,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B084N133Y7",
+    "views": 9900,
+    "conversions": 190,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B088Z1YWBC",
+    "views": 15300,
+    "conversions": 232,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07VSG5SXZ",
+    "views": 825,
+    "conversions": 13,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08RWCZ6SY",
+    "views": 2540,
+    "conversions": 38,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07KSB1MLX",
+    "views": 18900,
+    "conversions": 302,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B081FG1QYX",
+    "views": 8550,
+    "conversions": 157,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08R69WBN7",
+    "views": 20250,
+    "conversions": 324,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3RHX6B6",
+    "views": 588,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B084N18QZY",
+    "views": 6336,
+    "conversions": 126,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B081NHWT6Z",
+    "views": 17100,
+    "conversions": 259,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JPJJZ2H",
+    "views": 10350,
+    "conversions": 182,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09JKNF147",
+    "views": 7353,
+    "conversions": 117,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B9959XF3",
+    "views": 17550,
+    "conversions": 322,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09PNR6F8Q",
+    "views": 13950,
+    "conversions": 223,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07M69276N",
+    "views": 16650,
+    "conversions": 319,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B1YZ9CB8",
+    "views": 9000,
+    "conversions": 165,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YLYB9PB",
+    "views": 13500,
+    "conversions": 216,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CTNJ985",
+    "views": 13500,
+    "conversions": 248,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BP7XLX48",
+    "views": 925,
+    "conversions": 22,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LHXNZLR",
+    "views": 9792,
+    "conversions": 133,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3N8VG24",
+    "views": 15300,
+    "conversions": 244,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08PSVBB2X",
+    "views": 11700,
+    "conversions": 196,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3MQXNFB",
+    "views": 15750,
+    "conversions": 252,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08XMSKKMM",
+    "views": 12960,
+    "conversions": 134,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09L8DT7D6",
+    "views": 2808,
+    "conversions": 40,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00GE55L22",
+    "views": 17550,
+    "conversions": 294,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0162K34H2",
+    "views": 18450,
+    "conversions": 309,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B8SRZ5SV",
+    "views": 9450,
+    "conversions": 181,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07CWNJLPC",
+    "views": 17550,
+    "conversions": 322,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00NH12R1O",
+    "views": 15750,
+    "conversions": 289,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B8SSC5D9",
+    "views": 18900,
+    "conversions": 362,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08WKG2MWT",
+    "views": 11700,
+    "conversions": 215,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B466C3G4",
+    "views": 7350,
+    "conversions": 111,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B005LJQMZC",
+    "views": 17100,
+    "conversions": 300,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07MDRGHWQ",
+    "views": 12600,
+    "conversions": 221,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07DC4RZPY",
+    "views": 9450,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B15GSPQW",
+    "views": 12150,
+    "conversions": 223,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08GJNM9N7",
+    "views": 7595,
+    "conversions": 103,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09C6FML9B",
+    "views": 5635,
+    "conversions": 94,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B65MJ45G",
+    "views": 960,
+    "conversions": 14,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08P9RYPLR",
+    "views": 8100,
+    "conversions": 129,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B6F8HHR6",
+    "views": 18450,
+    "conversions": 324,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B084MZXJN6",
+    "views": 18450,
+    "conversions": 354,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08XMG618K",
+    "views": 10244,
+    "conversions": 172,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BCKWZ884",
+    "views": 6902,
+    "conversions": 126,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00GGGOYEK",
+    "views": 18900,
+    "conversions": 272,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07ZR4S1G4",
+    "views": 10350,
+    "conversions": 198,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09C635BMM",
+    "views": 14246,
+    "conversions": 227,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00GG59HU2",
+    "views": 9450,
+    "conversions": 181,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00RGLI0ZS",
+    "views": 20250,
+    "conversions": 324,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09ZPJT8B2",
+    "views": 1216,
+    "conversions": 21,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07HZ2QCGR",
+    "views": 12150,
+    "conversions": 184,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B095244Q22",
+    "views": 19800,
+    "conversions": 269,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CKW1KH9",
+    "views": 6422,
+    "conversions": 82,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BLV1GNLN",
+    "views": 850,
+    "conversions": 13,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08RHPDNVV",
+    "views": 3626,
+    "conversions": 43,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00NH13Q8W",
+    "views": 10800,
+    "conversions": 216,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B8SSZ76F",
+    "views": 9900,
+    "conversions": 174,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0841KQR1Z",
+    "views": 13050,
+    "conversions": 187,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B467CCB9",
+    "views": 2310,
+    "conversions": 33,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B095JQVC7N",
+    "views": 10350,
+    "conversions": 173,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08PPHFXG3",
+    "views": 15750,
+    "conversions": 289,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B06XR9PR5X",
+    "views": 18900,
+    "conversions": 362,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09JSW16QD",
+    "views": 6052,
+    "conversions": 91,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JH1CBGW",
+    "views": 8100,
+    "conversions": 142,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09127FZCK",
+    "views": 7844,
+    "conversions": 112,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B083GQGT3Z",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Q8WQ5QJ",
+    "views": 14850,
+    "conversions": 249,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YZG8PPY",
+    "views": 8100,
+    "conversions": 149,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09H39KTTB",
+    "views": 2583,
+    "conversions": 35,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08DCVRW98",
+    "views": 6931,
+    "conversions": 110,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0718ZN31Q",
+    "views": 19800,
+    "conversions": 348,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0162LYSFS",
+    "views": 19350,
+    "conversions": 325,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07PFJ5VQD",
+    "views": 12150,
+    "conversions": 223,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01J8S6X2I",
+    "views": 11250,
+    "conversions": 216,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MJ77786",
+    "views": 8550,
+    "conversions": 157,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NNGHG22",
+    "views": 7075,
+    "conversions": 130,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07V5YF4ND",
+    "views": 8388,
+    "conversions": 100,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B65P827P",
+    "views": 600,
+    "conversions": 9,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B084MZYBTV",
+    "views": 4740,
+    "conversions": 94,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097ZQTDVZ",
+    "views": 8815,
+    "conversions": 98,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5F3YZY4",
+    "views": 3993,
+    "conversions": 63,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09G5TSGXV",
+    "views": 19800,
+    "conversions": 316,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B006LW0WDQ",
+    "views": 9000,
+    "conversions": 172,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YLX91QR",
+    "views": 18900,
+    "conversions": 302,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B081FJWN52",
+    "views": 15750,
+    "conversions": 289,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0758F7KK7",
+    "views": 18900,
+    "conversions": 302,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09L835C3V",
+    "views": 9900,
+    "conversions": 174,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B098TV3L96",
+    "views": 2156,
+    "conversions": 31,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08NCKT9FG",
+    "views": 17550,
+    "conversions": 336,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4T6MR8N",
+    "views": 14850,
+    "conversions": 225,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01GGKZ4NU",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09BW2GP18",
+    "views": 3381,
+    "conversions": 51,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09WN3SRC7",
+    "views": 11700,
+    "conversions": 252,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09B125CFJ",
+    "views": 5474,
+    "conversions": 70,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09RQRZW2X",
+    "views": 4140,
+    "conversions": 56,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07924P3C5",
+    "views": 16650,
+    "conversions": 293,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08N1WL9XW",
+    "views": 13950,
+    "conversions": 223,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07VVXJ2P5",
+    "views": 10800,
+    "conversions": 138,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BC8BQ432",
+    "views": 15750,
+    "conversions": 289,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B06XFTHCNY",
+    "views": 18900,
+    "conversions": 332,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CT62BM1",
+    "views": 18450,
+    "conversions": 339,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07CRL2GY6",
+    "views": 18000,
+    "conversions": 316,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07DWFX9YS",
+    "views": 10800,
+    "conversions": 190,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01D5H90L4",
+    "views": 18000,
+    "conversions": 345,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07F1P8KNV",
+    "views": 12150,
+    "conversions": 213,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B084N1BM9L",
+    "views": 13500,
+    "conversions": 259,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09F6D21BY",
+    "views": 1989,
+    "conversions": 15,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LQQYNZQ",
+    "views": 4256,
+    "conversions": 85,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BC9BW512",
+    "views": 13050,
+    "conversions": 240,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B61HYR92",
+    "views": 1344,
+    "conversions": 23,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B075ZTJ9XR",
+    "views": 15300,
+    "conversions": 293,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0978V2CP6",
+    "views": 14336,
+    "conversions": 229,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LRZYBH1",
+    "views": 2961,
+    "conversions": 42,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B997FBZT",
+    "views": 11250,
+    "conversions": 207,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B098LCVYPW",
+    "views": 6400,
+    "conversions": 112,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09HV71RL1",
+    "views": 9000,
+    "conversions": 151,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08PZ6HZLT",
+    "views": 12600,
+    "conversions": 201,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B075TJHWVC",
+    "views": 8100,
+    "conversions": 142,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LV13JFB",
+    "views": 900,
+    "conversions": 9,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B092BL5DCX",
+    "views": 15750,
+    "conversions": 289,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09VH568H7",
+    "views": 625,
+    "conversions": 9,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09HQSV46W",
+    "views": 16200,
+    "conversions": 285,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08TZD7FQN",
+    "views": 8850,
+    "conversions": 120,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B21XL94T",
+    "views": 8100,
+    "conversions": 149,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09PTT8DZF",
+    "views": 5220,
+    "conversions": 79,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B94JPY2N",
+    "views": 2000,
+    "conversions": 15,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3XXSB1K",
+    "views": 17100,
+    "conversions": 314,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08RZ12GKR",
+    "views": 1140,
+    "conversions": 13,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4T8RSJ1",
+    "views": 11250,
+    "conversions": 171,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B7B9V9QP",
+    "views": 9000,
+    "conversions": 144,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08XXVXP3J",
+    "views": 1064,
+    "conversions": 19,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B06XGWRKYT",
+    "views": 20250,
+    "conversions": 291,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07CWDX49D",
+    "views": 12600,
+    "conversions": 231,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09TY4MSH3",
+    "views": 720,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07RY2X9MP",
+    "views": 15300,
+    "conversions": 306,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2C5MJN6",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BBMGLQDW",
+    "views": 650,
+    "conversions": 11,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01LONQBDG",
+    "views": 17550,
+    "conversions": 294,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08XXF5V6G",
+    "views": 14850,
+    "conversions": 285,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09HK9JH4F",
+    "views": 10800,
+    "conversions": 190,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MMD1FDN",
+    "views": 3745,
+    "conversions": 56,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09HN7LD5L",
+    "views": 2024,
+    "conversions": 32,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BNDD9TN6",
+    "views": 1025,
+    "conversions": 20,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0941392C8",
+    "views": 900,
+    "conversions": 12,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01M5967SY",
+    "views": 16200,
+    "conversions": 285,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B016MDK4F4",
+    "views": 825,
+    "conversions": 14,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08G43CCLC",
+    "views": 2025,
+    "conversions": 35,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B61GCHC1",
+    "views": 1849,
+    "conversions": 34,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07RX14W1Q",
+    "views": 14850,
+    "conversions": 285,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09PLD9TCD",
+    "views": 19350,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B8ZKWGKD",
+    "views": 1643,
+    "conversions": 30,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NNJ9WYM",
+    "views": 1536,
+    "conversions": 20,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08H5L8V1L",
+    "views": 9450,
+    "conversions": 173,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B8CXTTG3",
+    "views": 9450,
+    "conversions": 166,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09HCH3JZG",
+    "views": 7605,
+    "conversions": 146,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097JVLW3L",
+    "views": 9610,
+    "conversions": 115,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09SB6SJB4",
+    "views": 3828,
+    "conversions": 64,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08NW8GHCJ",
+    "views": 12989,
+    "conversions": 238,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YHLPQYT",
+    "views": 2201,
+    "conversions": 38,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08G1RW2Q3",
+    "views": 2400,
+    "conversions": 38,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08YXJJW8H",
+    "views": 4500,
+    "conversions": 68,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09P8M18QM",
+    "views": 4633,
+    "conversions": 48,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08BG4M4N7",
+    "views": 5111,
+    "conversions": 73,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07VJ9ZTXS",
+    "views": 3315,
+    "conversions": 53,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B084872DQY",
+    "views": 17100,
+    "conversions": 314,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00GGGOYEU",
+    "views": 17100,
+    "conversions": 259,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08FD2VSD9",
+    "views": 9450,
+    "conversions": 166,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BQRJ3C47",
+    "views": 950,
+    "conversions": 22,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B095JPKPH3",
+    "views": 13500,
+    "conversions": 226,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B087JWLZ2K",
+    "views": 18450,
+    "conversions": 280,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09DSXK8JX",
+    "views": 12600,
+    "conversions": 221,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08V9C4B1J",
+    "views": 18017,
+    "conversions": 331,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08PKBMJKS",
+    "views": 3060,
+    "conversions": 44,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B8VQ7KDS",
+    "views": 3150,
+    "conversions": 57,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B086JTMRYL",
+    "views": 11250,
+    "conversions": 216,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09RWQ7YR6",
+    "views": 10800,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00OFM6PEO",
+    "views": 10800,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BF57RN3K",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3RRWSF6",
+    "views": 14400,
+    "conversions": 264,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5B6PQCT",
+    "views": 9900,
+    "conversions": 142,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HV83HL3",
+    "views": 13950,
+    "conversions": 256,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BBN4DZBD",
+    "views": 10350,
+    "conversions": 165,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3CPQ5PF",
+    "views": 11700,
+    "conversions": 215,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3CQBRB4",
+    "views": 14400,
+    "conversions": 264,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BBN56J5H",
+    "views": 11250,
+    "conversions": 180,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BBN3WF7V",
+    "views": 20250,
+    "conversions": 324,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BDRVFDKP",
+    "views": 9000,
+    "conversions": 172,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5LVS732",
+    "views": 14400,
+    "conversions": 241,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09V2Q4QVQ",
+    "views": 19350,
+    "conversions": 309,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09V12K8NT",
+    "views": 20250,
+    "conversions": 307,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01DEWVZ2C",
+    "views": 20250,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BMGB3CH9",
+    "views": 4970,
+    "conversions": 87,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08D77XZX5",
+    "views": 9450,
+    "conversions": 143,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XB8GFBQ",
+    "views": 8550,
+    "conversions": 136,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WG8PDCW",
+    "views": 17100,
+    "conversions": 273,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GPXXNNG",
+    "views": 15750,
+    "conversions": 264,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BDYVC5TD",
+    "views": 19800,
+    "conversions": 380,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BMGB2TPR",
+    "views": 2556,
+    "conversions": 44,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08MC57J31",
+    "views": 9000,
+    "conversions": 165,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HVL8QN3",
+    "views": 18900,
+    "conversions": 347,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0746JGVDS",
+    "views": 20250,
+    "conversions": 307,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08VFF6JQ8",
+    "views": 11250,
+    "conversions": 216,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NVPSCQT",
+    "views": 10350,
+    "conversions": 165,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YV4RG4D",
+    "views": 13950,
+    "conversions": 245,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09TWHTBKQ",
+    "views": 14850,
+    "conversions": 249,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08L5HMJVW",
+    "views": 14850,
+    "conversions": 285,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4F2XCK3",
+    "views": 10800,
+    "conversions": 181,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BF54972T",
+    "views": 20250,
+    "conversions": 356,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YV4MW2T",
+    "views": 13500,
+    "conversions": 237,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09TWH8YHM",
+    "views": 8550,
+    "conversions": 143,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WGMMQGP",
+    "views": 10350,
+    "conversions": 165,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BF563HB4",
+    "views": 13500,
+    "conversions": 237,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09GFPVD9Y",
+    "views": 8100,
+    "conversions": 136,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09GFLXVH9",
+    "views": 13500,
+    "conversions": 226,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BF4YBLPX",
+    "views": 11700,
+    "conversions": 205,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XB7DPW1",
+    "views": 19350,
+    "conversions": 309,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07PFJ5W31",
+    "views": 19350,
+    "conversions": 356,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3N7LR6K",
+    "views": 14400,
+    "conversions": 264,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09ZQK9X8G",
+    "views": 12150,
+    "conversions": 204,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WJV6P1R",
+    "views": 13950,
+    "conversions": 234,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BF54LXW6",
+    "views": 18000,
+    "conversions": 316,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XB7SRQ5",
+    "views": 18450,
+    "conversions": 295,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09FFK1PQG",
+    "views": 19350,
+    "conversions": 371,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09RMQYHLH",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08ZN4B121",
+    "views": 17550,
+    "conversions": 252,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3RSDSZ3",
+    "views": 18000,
+    "conversions": 331,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08VB34KJ1",
+    "views": 14850,
+    "conversions": 261,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09T39K9YL",
+    "views": 9900,
+    "conversions": 150,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08VF8V79P",
+    "views": 10800,
+    "conversions": 207,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08G28Z33M",
+    "views": 12150,
+    "conversions": 194,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09PNKXSKF",
+    "views": 10800,
+    "conversions": 172,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5DDJNH4",
+    "views": 8550,
+    "conversions": 123,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WDKLDRX",
+    "views": 16200,
+    "conversions": 311,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MQSCJQ1",
+    "views": 18450,
+    "conversions": 324,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B094YFFSMY",
+    "views": 15750,
+    "conversions": 252,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MT84WV5",
+    "views": 8550,
+    "conversions": 157,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08VS3YLRK",
+    "views": 18450,
+    "conversions": 309,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4F3QNDM",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GQD4K6L",
+    "views": 8550,
+    "conversions": 143,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WDKLRM4",
+    "views": 8550,
+    "conversions": 143,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BP18W8TM",
+    "views": 1296,
+    "conversions": 24,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GXHC691",
+    "views": 14850,
+    "conversions": 273,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08FN6WGDQ",
+    "views": 15300,
+    "conversions": 244,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3D39RKV",
+    "views": 20250,
+    "conversions": 372,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B085HY1DGR",
+    "views": 15300,
+    "conversions": 244,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08D75R3Z1",
+    "views": 10350,
+    "conversions": 132,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4F2TTTS",
+    "views": 8550,
+    "conversions": 143,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09WRMNJ9G",
+    "views": 15300,
+    "conversions": 269,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B14MR9L1",
+    "views": 9000,
+    "conversions": 151,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09ZPL5VYM",
+    "views": 20250,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0993BB11X",
+    "views": 10350,
+    "conversions": 165,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09V2PZDX8",
+    "views": 9000,
+    "conversions": 144,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B085W8CFLH",
+    "views": 16650,
+    "conversions": 199,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MT6XSFW",
+    "views": 9000,
+    "conversions": 165,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07RD611Z8",
+    "views": 17550,
+    "conversions": 294,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4F52B5X",
+    "views": 20250,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B096VF5YYF",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5D39BCD",
+    "views": 13500,
+    "conversions": 194,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XBJ1CTN",
+    "views": 9450,
+    "conversions": 166,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4F5L738",
+    "views": 16200,
+    "conversions": 272,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08MTCKDYN",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09QS8V5N8",
+    "views": 16200,
+    "conversions": 272,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09T2WRLJJ",
+    "views": 16650,
+    "conversions": 253,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B089WB69Y1",
+    "views": 8550,
+    "conversions": 136,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0116MIKKC",
+    "views": 16650,
+    "conversions": 333,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09P858DK8",
+    "views": 9000,
+    "conversions": 144,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07DJLFMPS",
+    "views": 13950,
+    "conversions": 223,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WHQWXL7",
+    "views": 17550,
+    "conversions": 294,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WDK3ZS6",
+    "views": 16200,
+    "conversions": 272,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09T2S8X9C",
+    "views": 16200,
+    "conversions": 246,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07S9S86BF",
+    "views": 15300,
+    "conversions": 257,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07N8RQ6W7",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09FKDH6FS",
+    "views": 11700,
+    "conversions": 187,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HVJCW95",
+    "views": 10800,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YDFDVNS",
+    "views": 17550,
+    "conversions": 280,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WGPKTS4",
+    "views": 18000,
+    "conversions": 302,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MZCQYHZ",
+    "views": 12600,
+    "conversions": 201,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4F2ZWL3",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08VB2CMR3",
+    "views": 11700,
+    "conversions": 205,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B095RTJH1M",
+    "views": 13500,
+    "conversions": 280,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097R25DP7",
+    "views": 9900,
+    "conversions": 158,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YDFKJF8",
+    "views": 17550,
+    "conversions": 280,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WDK3ZS2",
+    "views": 17100,
+    "conversions": 314,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08RZ5K9YH",
+    "views": 12150,
+    "conversions": 223,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08444S68L",
+    "views": 14400,
+    "conversions": 253,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WHQBZLS",
+    "views": 12600,
+    "conversions": 201,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09JS562TP",
+    "views": 18900,
+    "conversions": 302,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09V17S2BG",
+    "views": 9000,
+    "conversions": 136,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5CGTBKV",
+    "views": 8100,
+    "conversions": 116,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B23LW7NV",
+    "views": 14400,
+    "conversions": 311,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09KGV7WSV",
+    "views": 16650,
+    "conversions": 306,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0971DWFDT",
+    "views": 16200,
+    "conversions": 285,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BNV7JM5Y",
+    "views": 1617,
+    "conversions": 27,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B53QFZPY",
+    "views": 9000,
+    "conversions": 93,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WJWRNVK",
+    "views": 15750,
+    "conversions": 252,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01F25X6RQ",
+    "views": 10800,
+    "conversions": 190,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B244R4KB",
+    "views": 15300,
+    "conversions": 318,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BMGG6NKT",
+    "views": 3692,
+    "conversions": 64,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B092JHPL72",
+    "views": 9900,
+    "conversions": 134,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09GFM8CGS",
+    "views": 13050,
+    "conversions": 219,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3MWYCHQ",
+    "views": 9000,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09J2MM5C6",
+    "views": 11250,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Q4QV1DL",
+    "views": 13050,
+    "conversions": 261,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B56YRBNT",
+    "views": 12150,
+    "conversions": 174,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01DF26V7A",
+    "views": 10350,
+    "conversions": 173,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08K4PSZ3V",
+    "views": 14400,
+    "conversions": 207,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4F1YC3J",
+    "views": 19800,
+    "conversions": 332,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08K4RDQ71",
+    "views": 15750,
+    "conversions": 226,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B085CZ3SR1",
+    "views": 18000,
+    "conversions": 316,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YV3K34W",
+    "views": 12150,
+    "conversions": 213,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Z6WH2N1",
+    "views": 16650,
+    "conversions": 293,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NL4DJ2Z",
+    "views": 19350,
+    "conversions": 309,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BGSV43WY",
+    "views": 950,
+    "conversions": 11,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0926V9CTV",
+    "views": 15300,
+    "conversions": 281,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WGPKMP5",
+    "views": 8100,
+    "conversions": 136,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BBFJ9M3X",
+    "views": 17550,
+    "conversions": 266,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09PLFJ7ZW",
+    "views": 19800,
+    "conversions": 300,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B53NXFFR",
+    "views": 15750,
+    "conversions": 163,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GNC2592",
+    "views": 12150,
+    "conversions": 194,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09TP5KBN7",
+    "views": 17550,
+    "conversions": 280,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0949SBKMP",
+    "views": 9450,
+    "conversions": 151,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09V175NP7",
+    "views": 9900,
+    "conversions": 150,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WHSJXLF",
+    "views": 11700,
+    "conversions": 215,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BD3T6Z1D",
+    "views": 9450,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LHYZ3GJ",
+    "views": 9450,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WFPMGQQ",
+    "views": 18450,
+    "conversions": 339,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09QS9X9L8",
+    "views": 15750,
+    "conversions": 264,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B6BLTGTT",
+    "views": 9900,
+    "conversions": 166,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B084DTMYWK",
+    "views": 11700,
+    "conversions": 205,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B53QLB9H",
+    "views": 12150,
+    "conversions": 126,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BDYW3RN3",
+    "views": 16650,
+    "conversions": 319,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3RS9DNF",
+    "views": 10800,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09QS9X16F",
+    "views": 18000,
+    "conversions": 302,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HV25BBQ",
+    "views": 12600,
+    "conversions": 201,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LJ116B5",
+    "views": 10800,
+    "conversions": 181,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BMVWKZ8G",
+    "views": 4680,
+    "conversions": 86,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BD92GDQH",
+    "views": 14402,
+    "conversions": 207,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5GF6DQD",
+    "views": 18630,
+    "conversions": 253,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09JS94MBV",
+    "views": 11700,
+    "conversions": 187,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YV463SW",
+    "views": 15300,
+    "conversions": 269,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NL4DCXK",
+    "views": 14850,
+    "conversions": 225,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B8CHJLWJ",
+    "views": 7748,
+    "conversions": 154,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B8ZWNR5T",
+    "views": 20250,
+    "conversions": 356,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BBFJLP21",
+    "views": 8550,
+    "conversions": 129,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01F262EUU",
+    "views": 9000,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09VZBGL1N",
+    "views": 17100,
+    "conversions": 287,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BNVBJW2S",
+    "views": 2387,
+    "conversions": 40,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2DJ5RVQ",
+    "views": 19800,
+    "conversions": 364,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B096TWZRJC",
+    "views": 11700,
+    "conversions": 196,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09GP6FBZT",
+    "views": 8550,
+    "conversions": 157,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3DV7S9B",
+    "views": 936,
+    "conversions": 11,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MKP344P",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08JW1GVS7",
+    "views": 18900,
+    "conversions": 302,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LHZSMRR",
+    "views": 9900,
+    "conversions": 166,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5V47VK4",
+    "views": 17100,
+    "conversions": 314,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08H21B6V7",
+    "views": 11700,
+    "conversions": 177,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09BNXQ6BR",
+    "views": 10350,
+    "conversions": 173,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01FSYQ2A4",
+    "views": 18450,
+    "conversions": 309,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08L5FM4JC",
+    "views": 14400,
+    "conversions": 276,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B54Y2SNX",
+    "views": 2065,
+    "conversions": 29,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08BQ947H3",
+    "views": 18000,
+    "conversions": 331,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B7DHSKS7",
+    "views": 13950,
+    "conversions": 167,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09SJ1FTYV",
+    "views": 15750,
+    "conversions": 252,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XJ5LD6L",
+    "views": 8100,
+    "conversions": 123,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WHS7MZ1",
+    "views": 9450,
+    "conversions": 173,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BBVKRP7B",
+    "views": 860,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NY7W8YD",
+    "views": 2480,
+    "conversions": 35,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BMM7R92G",
+    "views": 550,
+    "conversions": 11,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08M66K48D",
+    "views": 15750,
+    "conversions": 289,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09RFB2SJQ",
+    "views": 3914,
+    "conversions": 65,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B82YGCF6",
+    "views": 14960,
+    "conversions": 119,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HF4W2CT",
+    "views": 13050,
+    "conversions": 208,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08BCKN299",
+    "views": 16200,
+    "conversions": 246,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2X35B1K",
+    "views": 15750,
+    "conversions": 264,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09QS9CWLV",
+    "views": 9900,
+    "conversions": 166,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B1NX6JTN",
+    "views": 13950,
+    "conversions": 256,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078G6ZF5Z",
+    "views": 9900,
+    "conversions": 158,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BBW521YC",
+    "views": 2888,
+    "conversions": 55,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09HSKYMB3",
+    "views": 12150,
+    "conversions": 223,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YV42QHZ",
+    "views": 13050,
+    "conversions": 229,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09BF8JBWX",
+    "views": 19350,
+    "conversions": 278,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5YBGCKD",
+    "views": 16065,
+    "conversions": 295,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MY4W73Q",
+    "views": 8550,
+    "conversions": 157,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09T37CKQ5",
+    "views": 13050,
+    "conversions": 198,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09GFPN6TP",
+    "views": 10800,
+    "conversions": 181,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B298D54H",
+    "views": 9048,
+    "conversions": 123,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08VB57558",
+    "views": 11250,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B9BXKBC7",
+    "views": 4758,
+    "conversions": 98,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NY6TRXG",
+    "views": 2898,
+    "conversions": 44,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NVPJ3P4",
+    "views": 13050,
+    "conversions": 208,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3NDPCS9",
+    "views": 18900,
+    "conversions": 347,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09VGKFM7Y",
+    "views": 875,
+    "conversions": 16,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07QCWY5XV",
+    "views": 20250,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B098QXR9X2",
+    "views": 13950,
+    "conversions": 234,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07H1S7XW8",
+    "views": 16650,
+    "conversions": 279,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BNXFDTZ2",
+    "views": 15744,
+    "conversions": 302,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B088ZFJY82",
+    "views": 9900,
+    "conversions": 198,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4F4QZ1H",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09BCNQ9R2",
+    "views": 20250,
+    "conversions": 356,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B9BD2YL4",
+    "views": 10350,
+    "conversions": 207,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B071Z8M4KX",
+    "views": 19350,
+    "conversions": 325,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09N3ZNHTY",
+    "views": 19350,
+    "conversions": 294,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B005FYNT3G",
+    "views": 10350,
+    "conversions": 190,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01J0XWYKQ",
+    "views": 13950,
+    "conversions": 267,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09CTRPSJR",
+    "views": 8100,
+    "conversions": 116,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08JQN8DGZ",
+    "views": 10350,
+    "conversions": 149,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B72BSW7K",
+    "views": 14145,
+    "conversions": 169,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08TV2P1N8",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07XCM6T4N",
+    "views": 19350,
+    "conversions": 356,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07T5DKR5D",
+    "views": 13950,
+    "conversions": 167,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07PR1CL3S",
+    "views": 19350,
+    "conversions": 325,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JQKQ91F",
+    "views": 17550,
+    "conversions": 266,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08W56G1K9",
+    "views": 20250,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01L8ZNWN2",
+    "views": 18450,
+    "conversions": 324,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B009VCGPSY",
+    "views": 19350,
+    "conversions": 356,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B296NTFV",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07TCN5VR9",
+    "views": 11700,
+    "conversions": 177,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00ZYLMQH0",
+    "views": 10350,
+    "conversions": 190,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01HJI0FS2",
+    "views": 19350,
+    "conversions": 387,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B076B8G5D8",
+    "views": 18000,
+    "conversions": 288,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B014SZO90Y",
+    "views": 9450,
+    "conversions": 189,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07KCMR8D6",
+    "views": 13500,
+    "conversions": 248,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00N1U9AJS",
+    "views": 20250,
+    "conversions": 307,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07KY3FNQP",
+    "views": 8550,
+    "conversions": 143,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07QZ3CZ48",
+    "views": 4635,
+    "conversions": 81,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09T3H12GV",
+    "views": 14850,
+    "conversions": 261,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08ZJDWTJ1",
+    "views": 11250,
+    "conversions": 225,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08FTFXNNB",
+    "views": 10800,
+    "conversions": 146,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08YDFX7Y1",
+    "views": 19800,
+    "conversions": 237,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B087FXHB6J",
+    "views": 14400,
+    "conversions": 172,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07N42JB4S",
+    "views": 13050,
+    "conversions": 240,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B31BYXQQ",
+    "views": 12150,
+    "conversions": 184,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07SLMR1K6",
+    "views": 19800,
+    "conversions": 364,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B092X94QNQ",
+    "views": 19350,
+    "conversions": 325,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0846D5CBP",
+    "views": 20250,
+    "conversions": 405,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00KXULGJQ",
+    "views": 11250,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08H9Z3XQW",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08LPJZSSW",
+    "views": 8100,
+    "conversions": 123,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CYPB15D",
+    "views": 17550,
+    "conversions": 280,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00MFPCY5C",
+    "views": 10800,
+    "conversions": 129,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JJFSG2B",
+    "views": 13500,
+    "conversions": 248,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NR6G588",
+    "views": 12600,
+    "conversions": 181,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JPX9CR7",
+    "views": 11700,
+    "conversions": 224,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08D11DZ2W",
+    "views": 20250,
+    "conversions": 275,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Q7561HD",
+    "views": 6440,
+    "conversions": 123,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0819HZPXL",
+    "views": 18900,
+    "conversions": 362,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LXTFMRS",
+    "views": 11700,
+    "conversions": 224,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B9LDCX89",
+    "views": 7105,
+    "conversions": 125,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0765B3TH7",
+    "views": 17100,
+    "conversions": 342,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B1F6GQPS",
+    "views": 15300,
+    "conversions": 220,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07LG59NPV",
+    "views": 13500,
+    "conversions": 194,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00AXHBBXU",
+    "views": 17550,
+    "conversions": 336,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08MCD9JFY",
+    "views": 19800,
+    "conversions": 285,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B083RCTXLL",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HLZ28QC",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GVR9TG7",
+    "views": 8100,
+    "conversions": 155,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0856HY85J",
+    "views": 9450,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07CD2BN46",
+    "views": 11700,
+    "conversions": 196,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07PLHTTB4",
+    "views": 10350,
+    "conversions": 124,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B077T3BG5L",
+    "views": 16200,
+    "conversions": 207,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B079Y6JZC8",
+    "views": 11700,
+    "conversions": 168,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0856HNMR7",
+    "views": 8550,
+    "conversions": 136,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B12K5BPM",
+    "views": 9450,
+    "conversions": 143,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LVMTA2A",
+    "views": 16650,
+    "conversions": 319,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07TR5HSR9",
+    "views": 13950,
+    "conversions": 256,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0819ZZK5K",
+    "views": 13050,
+    "conversions": 240,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08QJJCY2Q",
+    "views": 18450,
+    "conversions": 354,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07L5L4GTB",
+    "views": 19350,
+    "conversions": 371,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07L8KNP5F",
+    "views": 12600,
+    "conversions": 181,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CF4SCNP",
+    "views": 13950,
+    "conversions": 200,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XX51X2G",
+    "views": 16650,
+    "conversions": 266,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01M72LILF",
+    "views": 15300,
+    "conversions": 293,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LZLQ624",
+    "views": 9450,
+    "conversions": 189,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09GB5B4BK",
+    "views": 13500,
+    "conversions": 216,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B015ZXUDD0",
+    "views": 16200,
+    "conversions": 298,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09PL79D2X",
+    "views": 10800,
+    "conversions": 155,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B098K3H92Z",
+    "views": 11700,
+    "conversions": 215,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B084PJSSQ1",
+    "views": 8550,
+    "conversions": 157,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097C564GC",
+    "views": 18000,
+    "conversions": 331,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CYNJ5KY",
+    "views": 13950,
+    "conversions": 245,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00Y4ORQ46",
+    "views": 8100,
+    "conversions": 129,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B074CWD7MS",
+    "views": 15300,
+    "conversions": 293,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00A0VCJPI",
+    "views": 19350,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00UGZWM2I",
+    "views": 15750,
+    "conversions": 264,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00R1P3B4O",
+    "views": 17550,
+    "conversions": 351,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09DG9VNWB",
+    "views": 18450,
+    "conversions": 339,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Y5MP7C4",
+    "views": 18450,
+    "conversions": 280,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01DJJVFPC",
+    "views": 18450,
+    "conversions": 369,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07DFYJRQV",
+    "views": 17550,
+    "conversions": 294,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08L879JSN",
+    "views": 10800,
+    "conversions": 190,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08TDJNM3G",
+    "views": 13050,
+    "conversions": 187,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B06XSK3XL6",
+    "views": 13950,
+    "conversions": 256,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YNTJ8ZM",
+    "views": 9000,
+    "conversions": 136,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07KR5P3YD",
+    "views": 17550,
+    "conversions": 266,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08FB2LNSZ",
+    "views": 12600,
+    "conversions": 171,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01IBRHE3E",
+    "views": 16650,
+    "conversions": 293,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01N6LU1VF",
+    "views": 12600,
+    "conversions": 231,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07XLML2YS",
+    "views": 17550,
+    "conversions": 308,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B086WMSCN3",
+    "views": 20250,
+    "conversions": 307,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B003B00484",
+    "views": 9450,
+    "conversions": 173,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B003L62T7W",
+    "views": 18450,
+    "conversions": 339,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09P18XVW6",
+    "views": 12150,
+    "conversions": 184,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LZLPYHW",
+    "views": 15300,
+    "conversions": 293,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00NNQMYNE",
+    "views": 12150,
+    "conversions": 243,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B217Z5VK",
+    "views": 17550,
+    "conversions": 266,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07B88KQZ8",
+    "views": 13950,
+    "conversions": 256,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Z3K96FR",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0756CLQWL",
+    "views": 13500,
+    "conversions": 237,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B004IO5BMQ",
+    "views": 18000,
+    "conversions": 360,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01HGCLUH6",
+    "views": 12150,
+    "conversions": 213,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01N4EV2TL",
+    "views": 15750,
+    "conversions": 289,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08MZQBFLN",
+    "views": 9900,
+    "conversions": 158,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0752LL57V",
+    "views": 10800,
+    "conversions": 216,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Z28BQZT",
+    "views": 13950,
+    "conversions": 212,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B094DQWV9B",
+    "views": 17550,
+    "conversions": 280,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BBMPH39N",
+    "views": 6000,
+    "conversions": 100,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097JQ1J5G",
+    "views": 17550,
+    "conversions": 196,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YY1BY5B",
+    "views": 18450,
+    "conversions": 295,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08VRMK55F",
+    "views": 10350,
+    "conversions": 115,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CHZ3ZQ7",
+    "views": 16650,
+    "conversions": 306,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08SCCG9D4",
+    "views": 16200,
+    "conversions": 246,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0972BQ2RS",
+    "views": 12150,
+    "conversions": 204,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00ZRBWPA0",
+    "views": 13500,
+    "conversions": 248,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2DD66GS",
+    "views": 15750,
+    "conversions": 315,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09M869Z5V",
+    "views": 19800,
+    "conversions": 348,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07W6VWZ8C",
+    "views": 8100,
+    "conversions": 136,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Z1X6VFC",
+    "views": 12150,
+    "conversions": 233,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YL54NVJ",
+    "views": 12150,
+    "conversions": 223,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0759QMF85",
+    "views": 10800,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LM4X0KU",
+    "views": 13950,
+    "conversions": 256,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08PFSZ7FH",
+    "views": 19350,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B012MQS060",
+    "views": 16200,
+    "conversions": 272,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01MF8MB65",
+    "views": 16650,
+    "conversions": 279,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LHZWD0C",
+    "views": 17100,
+    "conversions": 342,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08QDPB1SL",
+    "views": 12600,
+    "conversions": 241,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07BRKK9JQ",
+    "views": 14400,
+    "conversions": 264,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01EZ0X3L8",
+    "views": 14400,
+    "conversions": 264,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LM4W1N2",
+    "views": 14400,
+    "conversions": 264,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08YD264ZS",
+    "views": 17550,
+    "conversions": 322,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00GZLB57U",
+    "views": 10800,
+    "conversions": 207,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07V82W5CN",
+    "views": 15300,
+    "conversions": 244,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HD7JQHX",
+    "views": 14850,
+    "conversions": 154,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B31FR4Y2",
+    "views": 19350,
+    "conversions": 263,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Y14JLP3",
+    "views": 19350,
+    "conversions": 325,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09ZHCJDP1",
+    "views": 1025,
+    "conversions": 24,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08C4Z69LN",
+    "views": 10350,
+    "conversions": 207,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B016XVRKZM",
+    "views": 17550,
+    "conversions": 266,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LHZW3XY",
+    "views": 9000,
+    "conversions": 172,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B098JYT4SY",
+    "views": 12150,
+    "conversions": 204,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CFCK6CW",
+    "views": 15300,
+    "conversions": 195,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09P564ZTJ",
+    "views": 17550,
+    "conversions": 252,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07MSLTW8Z",
+    "views": 17100,
+    "conversions": 218,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09N6TTHT6",
+    "views": 4440,
+    "conversions": 78,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B098R25TGC",
+    "views": 12600,
+    "conversions": 181,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2PQL5N3",
+    "views": 9000,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07DKZCZ89",
+    "views": 19800,
+    "conversions": 364,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08GYG6T12",
+    "views": 18900,
+    "conversions": 362,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09BN2NPBD",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00J4YG0PC",
+    "views": 17550,
+    "conversions": 336,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B073BRXPZX",
+    "views": 12150,
+    "conversions": 233,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08LHTJTBB",
+    "views": 11250,
+    "conversions": 216,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07VTFN6HM",
+    "views": 19350,
+    "conversions": 371,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B008QS9J6Y",
+    "views": 10800,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09M8888DM",
+    "views": 9900,
+    "conversions": 182,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Z1YVP72",
+    "views": 8100,
+    "conversions": 149,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B082FTPRSK",
+    "views": 8550,
+    "conversions": 150,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09RF2QXGX",
+    "views": 3175,
+    "conversions": 58,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01KK0HU3Y",
+    "views": 14850,
+    "conversions": 261,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JF9B592",
+    "views": 16650,
+    "conversions": 239,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B086394NY5",
+    "views": 20250,
+    "conversions": 372,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B017PDR9N0",
+    "views": 18900,
+    "conversions": 317,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07NC12T2R",
+    "views": 9000,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WKBD37W",
+    "views": 14400,
+    "conversions": 230,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08JMC1988",
+    "views": 13950,
+    "conversions": 234,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09GFN8WZL",
+    "views": 17100,
+    "conversions": 287,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B095X38CJS",
+    "views": 6984,
+    "conversions": 128,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07ZKD8T1Q",
+    "views": 10800,
+    "conversions": 216,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07G3YNLJB",
+    "views": 18000,
+    "conversions": 360,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00P93X2H6",
+    "views": 18000,
+    "conversions": 302,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0798PJPCL",
+    "views": 13500,
+    "conversions": 248,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09GFWJDY1",
+    "views": 14850,
+    "conversions": 190,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MZ6WZ6V",
+    "views": 13500,
+    "conversions": 259,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B094QZLJQ6",
+    "views": 11250,
+    "conversions": 225,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07L3NDN24",
+    "views": 9900,
+    "conversions": 150,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08WD18LJZ",
+    "views": 17100,
+    "conversions": 273,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B06XDKWLJH",
+    "views": 18000,
+    "conversions": 345,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01J1CFO5I",
+    "views": 8100,
+    "conversions": 168,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07J2NGB69",
+    "views": 18900,
+    "conversions": 362,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00MUTWLW4",
+    "views": 20250,
+    "conversions": 388,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B017NC2IPM",
+    "views": 18900,
+    "conversions": 347,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00N1U7JXM",
+    "views": 9450,
+    "conversions": 181,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HQL67D6",
+    "views": 18900,
+    "conversions": 302,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09RKFBCV7",
+    "views": 13950,
+    "conversions": 245,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08KHM9VBJ",
+    "views": 11250,
+    "conversions": 162,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01IOZUHRS",
+    "views": 10350,
+    "conversions": 173,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00CEQEGPI",
+    "views": 19350,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08B6XWQ1C",
+    "views": 18000,
+    "conversions": 316,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01DGVKBC6",
+    "views": 15300,
+    "conversions": 293,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08JD36C6H",
+    "views": 14400,
+    "conversions": 241,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00E3DVQFS",
+    "views": 8550,
+    "conversions": 164,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00BN5SNF0",
+    "views": 15750,
+    "conversions": 239,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09SGGRKV8",
+    "views": 11250,
+    "conversions": 144,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B084BR3QX8",
+    "views": 20250,
+    "conversions": 243,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09VC2D2WG",
+    "views": 3696,
+    "conversions": 62,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09163Q5CD",
+    "views": 14400,
+    "conversions": 241,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08K9PX15C",
+    "views": 9900,
+    "conversions": 158,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B083RD1J99",
+    "views": 19350,
+    "conversions": 325,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Z7YGV3R",
+    "views": 1472,
+    "conversions": 23,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00N3XLDW0",
+    "views": 17550,
+    "conversions": 252,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Z53L5QL",
+    "views": 15300,
+    "conversions": 281,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00P93X0VO",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07SBGFDX9",
+    "views": 16650,
+    "conversions": 279,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07X2L5Z8C",
+    "views": 12600,
+    "conversions": 262,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00VA7YYUO",
+    "views": 18900,
+    "conversions": 347,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07L9FW9GF",
+    "views": 14400,
+    "conversions": 230,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08D64C9FN",
+    "views": 16650,
+    "conversions": 293,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LOD70SC",
+    "views": 19800,
+    "conversions": 364,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09X76VL5L",
+    "views": 13858,
+    "conversions": 188,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B091JF2TFD",
+    "views": 15300,
+    "conversions": 232,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07S7DCJKS",
+    "views": 13950,
+    "conversions": 256,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NC2TY11",
+    "views": 19800,
+    "conversions": 332,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BDS8MY8J",
+    "views": 6335,
+    "conversions": 111,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09X7DY7Q4",
+    "views": 14400,
+    "conversions": 288,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YV575RK",
+    "views": 10350,
+    "conversions": 165,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08LW31NQ6",
+    "views": 18450,
+    "conversions": 369,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09ND94ZRG",
+    "views": 20250,
+    "conversions": 243,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00P93X6EK",
+    "views": 14850,
+    "conversions": 297,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0994GP1CX",
+    "views": 14400,
+    "conversions": 149,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07H8W9PB6",
+    "views": 650,
+    "conversions": 10,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NNHFSSF",
+    "views": 18900,
+    "conversions": 272,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08D9NDZ1Y",
+    "views": 11250,
+    "conversions": 135,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0085IATT6",
+    "views": 19800,
+    "conversions": 332,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08WJ86PV2",
+    "views": 17100,
+    "conversions": 342,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078HRR1XV",
+    "views": 11700,
+    "conversions": 224,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09P22HXH6",
+    "views": 18900,
+    "conversions": 317,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LM4X3XE",
+    "views": 18900,
+    "conversions": 347,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YLFHFDW",
+    "views": 15300,
+    "conversions": 195,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YWS9SP9",
+    "views": 14850,
+    "conversions": 237,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08WLY8V9S",
+    "views": 17100,
+    "conversions": 342,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0873L7J6X",
+    "views": 11250,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YNHCW6N",
+    "views": 11700,
+    "conversions": 215,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01MQ2A86A",
+    "views": 14400,
+    "conversions": 299,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00KIE28X0",
+    "views": 9000,
+    "conversions": 180,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BHYJ8CVF",
+    "views": 18000,
+    "conversions": 302,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BCVJ3PVP",
+    "views": 5859,
+    "conversions": 117,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2931FCV",
+    "views": 11250,
+    "conversions": 135,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09TMZ1MF8",
+    "views": 11700,
+    "conversions": 224,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07VV37FT4",
+    "views": 12600,
+    "conversions": 221,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JB2Y4SR",
+    "views": 12600,
+    "conversions": 241,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08KRMK9LZ",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08LT9BMPP",
+    "views": 9000,
+    "conversions": 180,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0814ZY6FP",
+    "views": 9900,
+    "conversions": 142,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09F3PDDRF",
+    "views": 8976,
+    "conversions": 136,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07X963JNS",
+    "views": 11250,
+    "conversions": 180,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LD3116F",
+    "views": 13500,
+    "conversions": 226,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08Y5QJTVK",
+    "views": 7120,
+    "conversions": 136,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LY1FN1K",
+    "views": 9900,
+    "conversions": 190,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07DJ5KYDZ",
+    "views": 18000,
+    "conversions": 345,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B009LJ2BXA",
+    "views": 10800,
+    "conversions": 129,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09BVCVTBC",
+    "views": 9000,
+    "conversions": 180,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07SY4C3TD",
+    "views": 13950,
+    "conversions": 267,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B094JB13XL",
+    "views": 13950,
+    "conversions": 234,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CRRQK6Z",
+    "views": 12600,
+    "conversions": 221,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08MTLLSL8",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08Y57TPDM",
+    "views": 7744,
+    "conversions": 142,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09CYTJV3N",
+    "views": 13950,
+    "conversions": 256,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GLNJC25",
+    "views": 8550,
+    "conversions": 116,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08FY4FG5X",
+    "views": 10800,
+    "conversions": 164,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07TMCXRFV",
+    "views": 19800,
+    "conversions": 396,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LZPQVMK",
+    "views": 13950,
+    "conversions": 223,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08X77LM8C",
+    "views": 8910,
+    "conversions": 128,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01EJ5MM5M",
+    "views": 18900,
+    "conversions": 211,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08J82K4GX",
+    "views": 16200,
+    "conversions": 298,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Z1Z77ZZ",
+    "views": 18000,
+    "conversions": 331,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00DJ5N9VK",
+    "views": 8100,
+    "conversions": 149,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08FGNPQ9X",
+    "views": 20250,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07NTKGW45",
+    "views": 18900,
+    "conversions": 302,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08J4PL1Z3",
+    "views": 16200,
+    "conversions": 259,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07XJWTYM2",
+    "views": 13500,
+    "conversions": 226,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09939XJX8",
+    "views": 14850,
+    "conversions": 237,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MDCZJXS",
+    "views": 8100,
+    "conversions": 116,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CTQP51L",
+    "views": 13050,
+    "conversions": 229,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BG62HMDJ",
+    "views": 999,
+    "conversions": 18,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08GTYFC37",
+    "views": 18900,
+    "conversions": 362,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08SBH499M",
+    "views": 13500,
+    "conversions": 226,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08FYB5HHK",
+    "views": 20250,
+    "conversions": 405,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5GJRTHB",
+    "views": 19800,
+    "conversions": 348,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09GBBJV72",
+    "views": 6603,
+    "conversions": 100,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07P434WJY",
+    "views": 15750,
+    "conversions": 289,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07T9FV9YP",
+    "views": 18450,
+    "conversions": 295,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08WKFSN84",
+    "views": 18450,
+    "conversions": 339,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09TBCVJS3",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08TR61BVK",
+    "views": 19350,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2CPVXHX",
+    "views": 12395,
+    "conversions": 208,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08XNL93PL",
+    "views": 11250,
+    "conversions": 207,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B088GXTJM3",
+    "views": 14850,
+    "conversions": 273,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B099S26HWG",
+    "views": 5225,
+    "conversions": 91,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08461VC1Z",
+    "views": 11700,
+    "conversions": 234,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00K32PEW4",
+    "views": 13950,
+    "conversions": 267,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07LFWP97N",
+    "views": 14850,
+    "conversions": 249,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0746N6WML",
+    "views": 8100,
+    "conversions": 149,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07W9KYT62",
+    "views": 13500,
+    "conversions": 259,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08D9MNH4B",
+    "views": 12600,
+    "conversions": 161,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MKG4ZCM",
+    "views": 17550,
+    "conversions": 280,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07RZZ1QSW",
+    "views": 17550,
+    "conversions": 336,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07222HQKP",
+    "views": 19350,
+    "conversions": 356,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00NFD0ETQ",
+    "views": 13500,
+    "conversions": 280,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B075DB1F13",
+    "views": 18450,
+    "conversions": 354,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0148NPH9I",
+    "views": 10350,
+    "conversions": 207,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01JOFKL0A",
+    "views": 19800,
+    "conversions": 300,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B079S811J3",
+    "views": 14400,
+    "conversions": 264,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0083T231O",
+    "views": 9900,
+    "conversions": 198,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B086PXQ2R4",
+    "views": 16650,
+    "conversions": 333,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07L1N3TJX",
+    "views": 15750,
+    "conversions": 201,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YFWVRCM",
+    "views": 8100,
+    "conversions": 136,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08TDJ5BVF",
+    "views": 13500,
+    "conversions": 194,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XXZXQC1",
+    "views": 16200,
+    "conversions": 336,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B083T5G5PM",
+    "views": 16200,
+    "conversions": 272,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BHVPTM2C",
+    "views": 1443,
+    "conversions": 23,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01NBX5RSB",
+    "views": 8100,
+    "conversions": 149,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08MWJTST6",
+    "views": 9000,
+    "conversions": 144,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07R99NBVB",
+    "views": 17100,
+    "conversions": 342,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LY12TH6",
+    "views": 13950,
+    "conversions": 279,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08497Z1MQ",
+    "views": 9900,
+    "conversions": 182,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07KNM95JK",
+    "views": 20250,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Q3M3WLJ",
+    "views": 11040,
+    "conversions": 176,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09B9SPC7F",
+    "views": 10350,
+    "conversions": 173,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B099SD8PRP",
+    "views": 8550,
+    "conversions": 164,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00S2SEV7K",
+    "views": 11700,
+    "conversions": 196,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08WKCTFF3",
+    "views": 13500,
+    "conversions": 259,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08498D67S",
+    "views": 12600,
+    "conversions": 231,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00C3GBCIS",
+    "views": 10800,
+    "conversions": 190,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00URH5E34",
+    "views": 14400,
+    "conversions": 184,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00EYW1U68",
+    "views": 12600,
+    "conversions": 221,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08SMJT55F",
+    "views": 12600,
+    "conversions": 221,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08Y7MXFMK",
+    "views": 18900,
+    "conversions": 332,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B086Q3QMFS",
+    "views": 13500,
+    "conversions": 270,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08498H13H",
+    "views": 5304,
+    "conversions": 97,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07LFQLKFZ",
+    "views": 18900,
+    "conversions": 332,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LY17RHI",
+    "views": 19800,
+    "conversions": 332,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07W14CHV8",
+    "views": 13950,
+    "conversions": 234,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09F5Z694W",
+    "views": 11700,
+    "conversions": 168,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B25LQQPC",
+    "views": 19800,
+    "conversions": 364,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01LYLJ99X",
+    "views": 9000,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B014SZPBM4",
+    "views": 14850,
+    "conversions": 285,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CZHGHKH",
+    "views": 8100,
+    "conversions": 123,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2RBP83P",
+    "views": 6601,
+    "conversions": 105,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078W65FJ7",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08S74GTBT",
+    "views": 3971,
+    "conversions": 54,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07QMRHWJD",
+    "views": 13050,
+    "conversions": 240,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07W7Z6DVL",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WMS7TWB",
+    "views": 17100,
+    "conversions": 259,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00H47GVGY",
+    "views": 9000,
+    "conversions": 115,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07VX71FZP",
+    "views": 18900,
+    "conversions": 302,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07NCKMXVZ",
+    "views": 17100,
+    "conversions": 287,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B61DSF17",
+    "views": 8550,
+    "conversions": 116,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07VQGVL68",
+    "views": 18900,
+    "conversions": 287,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01LWYDEQ7",
+    "views": 8100,
+    "conversions": 136,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07VNFP3C2",
+    "views": 11250,
+    "conversions": 171,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LUGTJGO",
+    "views": 10800,
+    "conversions": 164,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01MQZ7J8K",
+    "views": 19800,
+    "conversions": 300,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01GFTEV5Y",
+    "views": 8100,
+    "conversions": 116,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00NW4UWN6",
+    "views": 16650,
+    "conversions": 239,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01NCVJMKX",
+    "views": 9900,
+    "conversions": 166,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00O24PUO6",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GXPDLYQ",
+    "views": 9900,
+    "conversions": 102,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01C8P29N0",
+    "views": 14850,
+    "conversions": 261,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08KDBLMQP",
+    "views": 17550,
+    "conversions": 280,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078JDNZJ8",
+    "views": 9450,
+    "conversions": 173,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01M5F614J",
+    "views": 16200,
+    "conversions": 259,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B083GKDRKR",
+    "views": 10800,
+    "conversions": 216,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097R2V1W8",
+    "views": 14400,
+    "conversions": 241,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YR26BJ3",
+    "views": 18000,
+    "conversions": 288,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097R45BH8",
+    "views": 11700,
+    "conversions": 205,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09X5C9VLK",
+    "views": 18900,
+    "conversions": 272,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01C8P29T4",
+    "views": 13050,
+    "conversions": 229,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00HVXS7WC",
+    "views": 10350,
+    "conversions": 182,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B096YCN3SD",
+    "views": 16650,
+    "conversions": 213,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LQH3SD9",
+    "views": 16650,
+    "conversions": 239,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09KNMLH4Y",
+    "views": 5248,
+    "conversions": 88,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00ABMASXG",
+    "views": 18000,
+    "conversions": 302,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07QDSN9V6",
+    "views": 9450,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00YMJ0OI8",
+    "views": 18900,
+    "conversions": 317,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B8XNPQPN",
+    "views": 2992,
+    "conversions": 52,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0814P4L98",
+    "views": 10350,
+    "conversions": 165,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B008QTK47Q",
+    "views": 12150,
+    "conversions": 223,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B088ZTJT2R",
+    "views": 9450,
+    "conversions": 166,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BK1K598K",
+    "views": 16200,
+    "conversions": 285,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Y5FZK9N",
+    "views": 8100,
+    "conversions": 110,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09J2SCVQT",
+    "views": 12150,
+    "conversions": 204,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00TDD0YM4",
+    "views": 16200,
+    "conversions": 311,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078KRFWQB",
+    "views": 17550,
+    "conversions": 252,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07SRM58TP",
+    "views": 13500,
+    "conversions": 216,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00EDJJ7FS",
+    "views": 13500,
+    "conversions": 237,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0832W3B7Q",
+    "views": 18000,
+    "conversions": 259,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WNK1FFN",
+    "views": 10800,
+    "conversions": 190,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B009P2LK08",
+    "views": 9000,
+    "conversions": 144,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07DGD4Z4C",
+    "views": 16200,
+    "conversions": 246,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GMFY9QM",
+    "views": 18000,
+    "conversions": 331,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BGPN4GGH",
+    "views": 1100,
+    "conversions": 15,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2DZ5S6R",
+    "views": 2242,
+    "conversions": 35,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07S851WX5",
+    "views": 11250,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01MY839VW",
+    "views": 9450,
+    "conversions": 166,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LV1CMGH",
+    "views": 5800,
+    "conversions": 74,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01EY310UM",
+    "views": 18900,
+    "conversions": 347,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NL7LBWT",
+    "views": 8154,
+    "conversions": 130,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B008YW8M0G",
+    "views": 20250,
+    "conversions": 356,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097R3XH9R",
+    "views": 17550,
+    "conversions": 294,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08TM71L54",
+    "views": 16650,
+    "conversions": 266,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BPBXNQQT",
+    "views": 1505,
+    "conversions": 27,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00W56GLOQ",
+    "views": 9450,
+    "conversions": 151,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0883KDSXC",
+    "views": 19350,
+    "conversions": 294,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078V8R9BS",
+    "views": 16200,
+    "conversions": 285,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08GSQXLJ2",
+    "views": 19350,
+    "conversions": 325,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01M5B0TPW",
+    "views": 8550,
+    "conversions": 164,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B082KVTRW8",
+    "views": 13050,
+    "conversions": 208,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CFJBZRK",
+    "views": 15750,
+    "conversions": 226,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07H3WDC4X",
+    "views": 13950,
+    "conversions": 223,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09ZTZ9N3Q",
+    "views": 2145,
+    "conversions": 18,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B083P71WKK",
+    "views": 13050,
+    "conversions": 240,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097R4D42G",
+    "views": 9000,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07MKMFKPG",
+    "views": 15300,
+    "conversions": 293,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0949FPSFY",
+    "views": 17100,
+    "conversions": 287,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08F47T4X5",
+    "views": 12600,
+    "conversions": 221,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01M0505SJ",
+    "views": 8100,
+    "conversions": 136,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08D6RCM3Q",
+    "views": 20250,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B009P2LITG",
+    "views": 13950,
+    "conversions": 234,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00V9NHDI4",
+    "views": 19800,
+    "conversions": 300,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WGPBXY9",
+    "views": 14850,
+    "conversions": 225,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00KRCBA6E",
+    "views": 9450,
+    "conversions": 136,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3X2BY3M",
+    "views": 13950,
+    "conversions": 223,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00F159RIK",
+    "views": 13050,
+    "conversions": 229,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08MV82R99",
+    "views": 17100,
+    "conversions": 287,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09VKWGZD7",
+    "views": 19800,
+    "conversions": 364,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B009P2LK80",
+    "views": 12576,
+    "conversions": 171,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00A7PLVU6",
+    "views": 18000,
+    "conversions": 316,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B25DJ352",
+    "views": 6908,
+    "conversions": 127,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B013B2WGT6",
+    "views": 13950,
+    "conversions": 256,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097RJ867P",
+    "views": 10350,
+    "conversions": 198,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B091V8HK8Z",
+    "views": 18450,
+    "conversions": 265,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B071VNHMX2",
+    "views": 15300,
+    "conversions": 306,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08MVSGXMY",
+    "views": 1786,
+    "conversions": 25,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00H0B29DI",
+    "views": 11700,
+    "conversions": 168,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01GZSQJPA",
+    "views": 16650,
+    "conversions": 279,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08VGFX2B6",
+    "views": 19350,
+    "conversions": 325,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09GYBZPHF",
+    "views": 15750,
+    "conversions": 226,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4KPCBSH",
+    "views": 10038,
+    "conversions": 104,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09CGLY5CX",
+    "views": 3894,
+    "conversions": 62,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09JN37WBX",
+    "views": 1984,
+    "conversions": 41,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01I1LDZGA",
+    "views": 13950,
+    "conversions": 212,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BN2576GQ",
+    "views": 1100,
+    "conversions": 14,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B06XPYRWV5",
+    "views": 18450,
+    "conversions": 324,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01N1XVVLC",
+    "views": 16200,
+    "conversions": 272,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00O2R38C4",
+    "views": 11700,
+    "conversions": 196,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2CZTCL2",
+    "views": 4340,
+    "conversions": 62,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00PVT30YI",
+    "views": 20250,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00SH18114",
+    "views": 11250,
+    "conversions": 233,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00E9G8KOY",
+    "views": 19800,
+    "conversions": 332,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00H3H03Q4",
+    "views": 9000,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0756K5DYZ",
+    "views": 11700,
+    "conversions": 177,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0188KPKB2",
+    "views": 14400,
+    "conversions": 241,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B091KNVNS9",
+    "views": 11250,
+    "conversions": 188,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B075JJ5NQC",
+    "views": 18900,
+    "conversions": 302,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5KZ3C53",
+    "views": 7040,
+    "conversions": 95,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NTHQRW3",
+    "views": 16200,
+    "conversions": 272,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B008YW3CYM",
+    "views": 16650,
+    "conversions": 279,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07QHHCB27",
+    "views": 17550,
+    "conversions": 294,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BMFD94VD",
+    "views": 750,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00HZIOGXW",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09CKSYBLR",
+    "views": 8100,
+    "conversions": 136,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B072J83V9W",
+    "views": 14850,
+    "conversions": 285,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MTLG4TP",
+    "views": 13725,
+    "conversions": 252,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097XJQZ8H",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00935MD1C",
+    "views": 10350,
+    "conversions": 140,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BR4F878Q",
+    "views": 14850,
+    "conversions": 332,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3G5XZN5",
+    "views": 6552,
+    "conversions": 131,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WKB69RS",
+    "views": 13050,
+    "conversions": 208,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09DL9978Y",
+    "views": 9546,
+    "conversions": 160,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B06XMZV7RH",
+    "views": 11700,
+    "conversions": 177,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09WMTJPG7",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09ZK6THRR",
+    "views": 11700,
+    "conversions": 205,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07MP21WJD",
+    "views": 16650,
+    "conversions": 279,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XB1R2F3",
+    "views": 2640,
+    "conversions": 31,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08Y5QJXSR",
+    "views": 11700,
+    "conversions": 215,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WJXCTG9",
+    "views": 15750,
+    "conversions": 239,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NBZ36F7",
+    "views": 8100,
+    "conversions": 142,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0912WJ87V",
+    "views": 15300,
+    "conversions": 220,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BMTZ4T1D",
+    "views": 600,
+    "conversions": 12,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Z51CGGH",
+    "views": 9000,
+    "conversions": 129,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BDG6QDYD",
+    "views": 2300,
+    "conversions": 38,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00YQLG7GK",
+    "views": 18450,
+    "conversions": 324,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00SMJPA9C",
+    "views": 13950,
+    "conversions": 234,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B9RN5X8B",
+    "views": 14850,
+    "conversions": 261,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08QW937WV",
+    "views": 875,
+    "conversions": 17,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4PPD89B",
+    "views": 2016,
+    "conversions": 32,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08GM5S4CQ",
+    "views": 11250,
+    "conversions": 216,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00NM6MO26",
+    "views": 18000,
+    "conversions": 288,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B083M7WPZD",
+    "views": 14850,
+    "conversions": 237,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GLSKXS1",
+    "views": 17100,
+    "conversions": 259,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09F6KL23R",
+    "views": 18000,
+    "conversions": 288,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B094G9L9LT",
+    "views": 5016,
+    "conversions": 72,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09FZ89DK6",
+    "views": 14400,
+    "conversions": 253,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0811VCGL5",
+    "views": 19350,
+    "conversions": 356,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07FXLC2G2",
+    "views": 8100,
+    "conversions": 142,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01LYU3BZF",
+    "views": 9000,
+    "conversions": 165,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B083RC4WFJ",
+    "views": 12150,
+    "conversions": 213,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09SFRNKSR",
+    "views": 3625,
+    "conversions": 69,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07NRTCDS5",
+    "views": 13500,
+    "conversions": 194,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07SPVMSC6",
+    "views": 18000,
+    "conversions": 302,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09H3BXWTK",
+    "views": 7225,
+    "conversions": 109,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0073QGKAS",
+    "views": 12150,
+    "conversions": 223,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08GJ57MKL",
+    "views": 17550,
+    "conversions": 336,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B009DA69W6",
+    "views": 16200,
+    "conversions": 207,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B099PR2GQJ",
+    "views": 725,
+    "conversions": 10,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08G8H8DPL",
+    "views": 14850,
+    "conversions": 237,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08VGM3YMF",
+    "views": 15750,
+    "conversions": 264,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08TTRVWKY",
+    "views": 15300,
+    "conversions": 281,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07T4D9FNY",
+    "views": 13050,
+    "conversions": 208,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07RX42D3D",
+    "views": 13950,
+    "conversions": 212,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08WRKSF9D",
+    "views": 18450,
+    "conversions": 354,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09R83SFYV",
+    "views": 15750,
+    "conversions": 214,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07989VV5K",
+    "views": 12600,
+    "conversions": 161,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07FL3WRX5",
+    "views": 13050,
+    "conversions": 177,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BPCJM7TB",
+    "views": 1000,
+    "conversions": 16,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08H673XKN",
+    "views": 14400,
+    "conversions": 253,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07DXRGWDJ",
+    "views": 11700,
+    "conversions": 168,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08243SKCK",
+    "views": 12150,
+    "conversions": 213,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09SPTNG58",
+    "views": 11700,
+    "conversions": 177,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B083J64CBB",
+    "views": 11250,
+    "conversions": 180,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08JV91JTK",
+    "views": 5775,
+    "conversions": 97,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BQ3K23Y1",
+    "views": 1025,
+    "conversions": 22,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MT94QLL",
+    "views": 10800,
+    "conversions": 190,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07NKNBTT3",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09KPXTZXN",
+    "views": 9450,
+    "conversions": 151,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078HG2ZPS",
+    "views": 18450,
+    "conversions": 280,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07N2MGB3G",
+    "views": 15750,
+    "conversions": 264,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B008LN8KDM",
+    "views": 18900,
+    "conversions": 347,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08MZNT7GP",
+    "views": 6440,
+    "conversions": 108,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B009P2L7CO",
+    "views": 10350,
+    "conversions": 182,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YC8JHMB",
+    "views": 10800,
+    "conversions": 164,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BNQMF152",
+    "views": 624,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08J7VCT12",
+    "views": 18450,
+    "conversions": 309,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0989W6J2F",
+    "views": 14850,
+    "conversions": 237,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B84KSH3X",
+    "views": 3250,
+    "conversions": 46,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HLC7Z3G",
+    "views": 18450,
+    "conversions": 324,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BN6M3TCM",
+    "views": 1404,
+    "conversions": 29,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01L6MT7E0",
+    "views": 18900,
+    "conversions": 317,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B9F9PT8R",
+    "views": 850,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0883LQJ6B",
+    "views": 16650,
+    "conversions": 293,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B099Z83VRC",
+    "views": 12150,
+    "conversions": 223,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00S9BSJC8",
+    "views": 9450,
+    "conversions": 173,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B4SJKRDF",
+    "views": 1100,
+    "conversions": 20,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BM4KTNL1",
+    "views": 10800,
+    "conversions": 233,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08S6RKT4L",
+    "views": 12150,
+    "conversions": 233,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09SZ5TWHW",
+    "views": 5775,
+    "conversions": 87,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BLC2BYPX",
+    "views": 783,
+    "conversions": 16,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00P0R95EA",
+    "views": 10350,
+    "conversions": 173,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07W4HTS8Q",
+    "views": 12150,
+    "conversions": 174,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078JBK4GX",
+    "views": 5814,
+    "conversions": 111,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08S7V8YTN",
+    "views": 18000,
+    "conversions": 331,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07H5PBN54",
+    "views": 4410,
+    "conversions": 49,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YCBSCYB",
+    "views": 8580,
+    "conversions": 151,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B098T9CJVQ",
+    "views": 962,
+    "conversions": 13,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01KCSGBU2",
+    "views": 8550,
+    "conversions": 157,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B095XCRDQW",
+    "views": 8550,
+    "conversions": 157,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09CTWFV5W",
+    "views": 15750,
+    "conversions": 302,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B7NWGXS6",
+    "views": 675,
+    "conversions": 11,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07DZ986Q2",
+    "views": 18000,
+    "conversions": 288,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07KKJPTWB",
+    "views": 9900,
+    "conversions": 190,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B071R3LHFM",
+    "views": 17100,
+    "conversions": 246,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B086X18Q71",
+    "views": 20250,
+    "conversions": 372,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07WVQG8WZ",
+    "views": 18900,
+    "conversions": 272,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BFBNXS94",
+    "views": 825,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B071113J7M",
+    "views": 9450,
+    "conversions": 189,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09YLWT89W",
+    "views": 20250,
+    "conversions": 324,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0814LP6S9",
+    "views": 8100,
+    "conversions": 110,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07BKSSDR2",
+    "views": 16200,
+    "conversions": 259,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09VGS66FV",
+    "views": 8613,
+    "conversions": 165,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07RCGTZ4M",
+    "views": 14850,
+    "conversions": 249,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0747VDH9L",
+    "views": 14850,
+    "conversions": 285,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08XLR6DSB",
+    "views": 14400,
+    "conversions": 126,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08H6CZSHT",
+    "views": 12600,
+    "conversions": 231,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07CVR2L5K",
+    "views": 10350,
+    "conversions": 198,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09J4YQYX3",
+    "views": 4370,
+    "conversions": 83,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2DD8BQ8",
+    "views": 3666,
+    "conversions": 61,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0123P3PWE",
+    "views": 20250,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08HDCWDXD",
+    "views": 12243,
+    "conversions": 195,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0836JGZ74",
+    "views": 3444,
+    "conversions": 44,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BCKJJN8R",
+    "views": 19800,
+    "conversions": 300,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B008P7IF02",
+    "views": 9000,
+    "conversions": 136,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CNLYKW5",
+    "views": 13500,
+    "conversions": 194,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08C7TYHPB",
+    "views": 14850,
+    "conversions": 249,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08VJFYH6N",
+    "views": 9000,
+    "conversions": 151,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08235JZFB",
+    "views": 16200,
+    "conversions": 272,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078XFKBZL",
+    "views": 17100,
+    "conversions": 246,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01M265AAK",
+    "views": 6942,
+    "conversions": 127,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B694PXQJ",
+    "views": 589,
+    "conversions": 11,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00B3VFJY2",
+    "views": 9900,
+    "conversions": 174,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08W9BK4MD",
+    "views": 3256,
+    "conversions": 49,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09X5HD5T1",
+    "views": 3956,
+    "conversions": 47,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08H6B3G96",
+    "views": 16200,
+    "conversions": 298,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09N3BFP4M",
+    "views": 12150,
+    "conversions": 184,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09DSQXCM8",
+    "views": 9000,
+    "conversions": 136,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01M69WCZ6",
+    "views": 11250,
+    "conversions": 180,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BM9H2NY9",
+    "views": 9450,
+    "conversions": 204,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B099FDW2ZF",
+    "views": 3535,
+    "conversions": 59,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B935YNR7",
+    "views": 9240,
+    "conversions": 133,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JGCGNDG",
+    "views": 13950,
+    "conversions": 234,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08L12N5H1",
+    "views": 16650,
+    "conversions": 239,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GWTWFS2",
+    "views": 16650,
+    "conversions": 279,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09KRHXTLN",
+    "views": 6708,
+    "conversions": 101,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09H34V36W",
+    "views": 3071,
+    "conversions": 44,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09J2QCKKM",
+    "views": 3775,
+    "conversions": 63,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XRBJ94N",
+    "views": 11802,
+    "conversions": 217,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07SLNG3LW",
+    "views": 15300,
+    "conversions": 232,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BNDGL26T",
+    "views": 1620,
+    "conversions": 11,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B095PWLLY6",
+    "views": 14400,
+    "conversions": 230,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Y9PY6Y1",
+    "views": 14400,
+    "conversions": 288,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BJ966M5K",
+    "views": 1674,
+    "conversions": 34,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B086GVRP63",
+    "views": 13905,
+    "conversions": 233,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08MVXPTDG",
+    "views": 1116,
+    "conversions": 18,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BMZ6SY89",
+    "views": 775,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09P1MFKG1",
+    "views": 675,
+    "conversions": 14,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01LY9W8AF",
+    "views": 16200,
+    "conversions": 285,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07ZJND9B9",
+    "views": 16650,
+    "conversions": 253,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B2CWRDB1",
+    "views": 1615,
+    "conversions": 28,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B072NCN9M4",
+    "views": 16650,
+    "conversions": 293,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08SKZ2RMG",
+    "views": 18450,
+    "conversions": 309,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B53DS4TF",
+    "views": 9450,
+    "conversions": 211,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08BJN4MP3",
+    "views": 18900,
+    "conversions": 362,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BCYQY9X5",
+    "views": 1152,
+    "conversions": 21,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B009UORDX4",
+    "views": 17100,
+    "conversions": 314,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08VGDBF3B",
+    "views": 3960,
+    "conversions": 63,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B012ELCYUG",
+    "views": 11700,
+    "conversions": 215,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07S9M8YTY",
+    "views": 17550,
+    "conversions": 280,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B19VJXQZ",
+    "views": 9000,
+    "conversions": 172,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00SMFPJG0",
+    "views": 10350,
+    "conversions": 173,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BHYLCL19",
+    "views": 625,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BPJBTB3F",
+    "views": 575,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08MXJYB2V",
+    "views": 15750,
+    "conversions": 252,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B081B1JL35",
+    "views": 6380,
+    "conversions": 86,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09VL9KFDB",
+    "views": 4554,
+    "conversions": 65,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B1MDZV9C",
+    "views": 2934,
+    "conversions": 44,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08TT63N58",
+    "views": 13950,
+    "conversions": 122,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08YK7BBD2",
+    "views": 9856,
+    "conversions": 78,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YQ5SN4H",
+    "views": 6280,
+    "conversions": 100,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B7FJNSZR",
+    "views": 9879,
+    "conversions": 189,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01N6IJG0F",
+    "views": 14850,
+    "conversions": 249,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B84QN4CN",
+    "views": 1215,
+    "conversions": 15,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B8ZM9RVV",
+    "views": 2147,
+    "conversions": 41,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01892MIPA",
+    "views": 11250,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08ZHYNTM1",
+    "views": 12150,
+    "conversions": 223,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09SDDQQKP",
+    "views": 13720,
+    "conversions": 197,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B5RP43VN",
+    "views": 12150,
+    "conversions": 204,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B096NTB9XT",
+    "views": 18000,
+    "conversions": 288,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078JF6X9B",
+    "views": 12600,
+    "conversions": 221,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08CGW4GYR",
+    "views": 14400,
+    "conversions": 184,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00A328ENA",
+    "views": 9000,
+    "conversions": 158,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0763K5HLQ",
+    "views": 17550,
+    "conversions": 294,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09PDZNSBG",
+    "views": 7625,
+    "conversions": 134,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B085LPT5F4",
+    "views": 11700,
+    "conversions": 177,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B9RZ4G4W",
+    "views": 2064,
+    "conversions": 33,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0085W2MUQ",
+    "views": 19350,
+    "conversions": 340,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09474JWN6",
+    "views": 7334,
+    "conversions": 129,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09G2VTHQM",
+    "views": 10008,
+    "conversions": 168,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07R679HTT",
+    "views": 17550,
+    "conversions": 336,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00B7GKXMG",
+    "views": 19350,
+    "conversions": 325,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07H3N8RJH",
+    "views": 10800,
+    "conversions": 190,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07K2HVKLL",
+    "views": 13950,
+    "conversions": 234,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MQ9PDHR",
+    "views": 1638,
+    "conversions": 24,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B014HDJ7ZE",
+    "views": 15750,
+    "conversions": 239,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07D2NMTTV",
+    "views": 11250,
+    "conversions": 198,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B075K76YW1",
+    "views": 17100,
+    "conversions": 300,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BNLFQDG2",
+    "views": 550,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B082ZQ4479",
+    "views": 11700,
+    "conversions": 159,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09Y358DZQ",
+    "views": 9284,
+    "conversions": 103,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09M3F4HGB",
+    "views": 858,
+    "conversions": 15,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07VZH6ZBB",
+    "views": 9000,
+    "conversions": 144,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07F366Z51",
+    "views": 8550,
+    "conversions": 143,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B077BTLQ67",
+    "views": 6762,
+    "conversions": 102,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07YSJ7FF1",
+    "views": 19350,
+    "conversions": 309,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07TXCY3YK",
+    "views": 12150,
+    "conversions": 184,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07TC9F7PN",
+    "views": 16650,
+    "conversions": 293,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NS5TKPN",
+    "views": 18450,
+    "conversions": 339,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00LP9RFSU",
+    "views": 19800,
+    "conversions": 316,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B7L86YCB",
+    "views": 900,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09VPH38JS",
+    "views": 1944,
+    "conversions": 27,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01MUAUOCX",
+    "views": 14400,
+    "conversions": 288,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MB3DKG1",
+    "views": 3570,
+    "conversions": 42,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08QHLXWV3",
+    "views": 2304,
+    "conversions": 35,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07G147SZD",
+    "views": 14520,
+    "conversions": 232,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LH32678",
+    "views": 11232,
+    "conversions": 179,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09R1YFL6S",
+    "views": 1120,
+    "conversions": 13,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Q4NJQC5",
+    "views": 13500,
+    "conversions": 216,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097RN7BBK",
+    "views": 11700,
+    "conversions": 131,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B097MKZHNV",
+    "views": 15300,
+    "conversions": 269,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07LG96SDB",
+    "views": 15750,
+    "conversions": 226,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08KS2KQTK",
+    "views": 14850,
+    "conversions": 249,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B095K14P86",
+    "views": 9440,
+    "conversions": 166,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08K36NZSV",
+    "views": 9000,
+    "conversions": 165,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07LDPLSZC",
+    "views": 16650,
+    "conversions": 293,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07F1T31ZZ",
+    "views": 6574,
+    "conversions": 110,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BNDRK886",
+    "views": 13950,
+    "conversions": 212,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09ZVJXN5L",
+    "views": 1025,
+    "conversions": 10,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08JKPVDKL",
+    "views": 12600,
+    "conversions": 231,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09JFR8H3Q",
+    "views": 16650,
+    "conversions": 253,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07LDN9Q2P",
+    "views": 11700,
+    "conversions": 215,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08T8KWNQ9",
+    "views": 558,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Y1RCCW5",
+    "views": 9000,
+    "conversions": 129,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0762HXMTF",
+    "views": 11250,
+    "conversions": 171,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00K57MR22",
+    "views": 17550,
+    "conversions": 365,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07TTSS5MP",
+    "views": 19800,
+    "conversions": 285,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09ZDVL7L8",
+    "views": 20250,
+    "conversions": 307,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XHXXCFH",
+    "views": 5220,
+    "conversions": 87,
+    "returns": 5,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BL3R4RGS",
+    "views": 900,
+    "conversions": 11,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07P1BR7L8",
+    "views": 8100,
+    "conversions": 155,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078WB1VWJ",
+    "views": 18900,
+    "conversions": 347,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BP89YBC1",
+    "views": 17550,
+    "conversions": 379,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09W9V2PXG",
+    "views": 11704,
+    "conversions": 215,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09XTQFFCG",
+    "views": 3380,
+    "conversions": 51,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08LVVTGZK",
+    "views": 16200,
+    "conversions": 246,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07J2BQZD6",
+    "views": 8550,
+    "conversions": 116,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07HK53XM4",
+    "views": 18900,
+    "conversions": 226,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08RDWBYCQ",
+    "views": 18900,
+    "conversions": 302,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09FHHTL8L",
+    "views": 2438,
+    "conversions": 40,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BHNHMR3H",
+    "views": 1056,
+    "conversions": 16,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07D8VBYB4",
+    "views": 15300,
+    "conversions": 293,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3TBY2YX",
+    "views": 1026,
+    "conversions": 18,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B088WCFPQF",
+    "views": 14400,
+    "conversions": 288,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07JZSG42Y",
+    "views": 11700,
+    "conversions": 187,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08YRMBK9R",
+    "views": 10350,
+    "conversions": 157,
+    "returns": 10,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00935MGHS",
+    "views": 16200,
+    "conversions": 285,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07B5XJ572",
+    "views": 13950,
+    "conversions": 234,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B086199CWG",
+    "views": 17100,
+    "conversions": 232,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BBWJFK5C",
+    "views": 6512,
+    "conversions": 109,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07GLS2563",
+    "views": 14850,
+    "conversions": 261,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09P182Z2H",
+    "views": 1680,
+    "conversions": 30,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B59K1C8F",
+    "views": 1650,
+    "conversions": 21,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B06Y36JKC3",
+    "views": 13050,
+    "conversions": 219,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B075S9FVRY",
+    "views": 13950,
+    "conversions": 279,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08SJVD8QD",
+    "views": 12600,
+    "conversions": 221,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07FJNNZCJ",
+    "views": 12600,
+    "conversions": 231,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09MFR93KS",
+    "views": 15132,
+    "conversions": 242,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07Y5FDPKV",
+    "views": 9450,
+    "conversions": 166,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0756KCV5K",
+    "views": 20250,
+    "conversions": 356,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BJ6P3LSK",
+    "views": 3289,
+    "conversions": 65,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09HS1NDRQ",
+    "views": 4004,
+    "conversions": 57,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B018SJJ0GE",
+    "views": 6014,
+    "conversions": 115,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09FPP3R1D",
+    "views": 16520,
+    "conversions": 277,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01F7B2JCI",
+    "views": 14850,
+    "conversions": 261,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NNZ1GF7",
+    "views": 3078,
+    "conversions": 56,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01CS4A5V4",
+    "views": 17550,
+    "conversions": 294,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BL11S5QK",
+    "views": 2340,
+    "conversions": 41,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09BL2KHQW",
+    "views": 10780,
+    "conversions": 181,
+    "returns": 11,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B081RLM75M",
+    "views": 1722,
+    "conversions": 26,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07SYYVP69",
+    "views": 12425,
+    "conversions": 188,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BDZWMGZ1",
+    "views": 1254,
+    "conversions": 18,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B078JT7LTD",
+    "views": 14400,
+    "conversions": 299,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09WF4Q7B3",
+    "views": 7700,
+    "conversions": 98,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B092R48XXB",
+    "views": 12600,
+    "conversions": 211,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00KIDSU8S",
+    "views": 11700,
+    "conversions": 205,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0977CGNJJ",
+    "views": 7476,
+    "conversions": 137,
+    "returns": 7,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08WWKM5HQ",
+    "views": 9429,
+    "conversions": 143,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B015GX9Y0W",
+    "views": 18900,
+    "conversions": 287,
+    "returns": 19,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B089BDBDGM",
+    "views": 13500,
+    "conversions": 216,
+    "returns": 13,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BPBG712X",
+    "views": 1125,
+    "conversions": 21,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00JBNZPFM",
+    "views": 15300,
+    "conversions": 269,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08N6P8G5K",
+    "views": 19800,
+    "conversions": 396,
+    "returns": 20,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07NPBG1B4",
+    "views": 8100,
+    "conversions": 136,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01MRARGBW",
+    "views": 17550,
+    "conversions": 294,
+    "returns": 18,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07VZYMQNZ",
+    "views": 20250,
+    "conversions": 356,
+    "returns": 21,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01L7C4IU2",
+    "views": 15750,
+    "conversions": 277,
+    "returns": 16,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09H7JDJCW",
+    "views": 2848,
+    "conversions": 45,
+    "returns": 2,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07F6GXNPB",
+    "views": 13950,
+    "conversions": 256,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B97D658R",
+    "views": 2014,
+    "conversions": 25,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09NFSHCWN",
+    "views": 600,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B076VQS87V",
+    "views": 15300,
+    "conversions": 281,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B09LMMFW3S",
+    "views": 6525,
+    "conversions": 83,
+    "returns": 6,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BBLHTRM9",
+    "views": 2923,
+    "conversions": 21,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0BJYSCWFQ",
+    "views": 1050,
+    "conversions": 18,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0187F2IOK",
+    "views": 14850,
+    "conversions": 285,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B8CB7MHW",
+    "views": 4218,
+    "conversions": 70,
+    "returns": 4,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07K19NYZ8",
+    "views": 3104,
+    "conversions": 44,
+    "returns": 3,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08ZXZ362Z",
+    "views": 18900,
+    "conversions": 226,
+    "returns": 17,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00GHL8VP2",
+    "views": 8550,
+    "conversions": 143,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B9JZW1SQ",
+    "views": 1344,
+    "conversions": 12,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00TI8E7BI",
+    "views": 11700,
+    "conversions": 224,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B07J9KXQCC",
+    "views": 9625,
+    "conversions": 123,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B0B3JSWG81",
+    "views": 550,
+    "conversions": 8,
+    "returns": 1,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B08L7J3T31",
+    "views": 12150,
+    "conversions": 194,
+    "returns": 12,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01M6453MB",
+    "views": 14400,
+    "conversions": 241,
+    "returns": 14,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B009P2LIL4",
+    "views": 9360,
+    "conversions": 119,
+    "returns": 8,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B00J5DYCCA",
+    "views": 14850,
+    "conversions": 237,
+    "returns": 15,
+    "estimated_from": "catalog+reviews"
+  },
+  {
+    "sku": "B01486F4G6",
+    "views": 9450,
+    "conversions": 173,
+    "returns": 9,
+    "estimated_from": "catalog+reviews"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sku": "EB-100",
+    "category": "Bluetooth Earbuds",
+    "price": 2499,
+    "stock": 120,
+    "features": ["ENC", "Fast Charging", "Touch Controls"]
+  },
+  {
+    "sku": "EB-200",
+    "category": "Bluetooth Earbuds",
+    "price": 3299,
+    "stock": 80,
+    "features": ["ANC", "Dual Device Pairing", "Fast Charging"]
+  },
+  {
+    "sku": "SS-100",
+    "category": "Skincare Serums",
+    "price": 1899,
+    "stock": 150,
+    "features": ["Vitamin C", "Fragrance Free", "Dermat Tested"]
+  },
+  {
+    "sku": "NF-100",
+    "category": "Nutrition & Fitness",
+    "price": 2799,
+    "stock": 90,
+    "features": ["High Protein", "Low Sugar", "Fast Dissolve"]
+  }
+]

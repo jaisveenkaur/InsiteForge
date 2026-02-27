@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard - InsightForge</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+
+<body>
+    <!-- Custom Cursor Glow -->
+    <div class="cursor-glow" id="cursorGlow"></div>
+
+    <!-- Animated Background Orbs -->
+    <div class="bg-orbs" id="parallaxBg">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+
+    <!-- Navigation Header -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="index.html" class="brand" style="text-decoration: none;">
+                <h1>
+                    <span>⚡</span>
+                    InsightForge
+                </h1>
+                <p>Intelligence Platform</p>
+            </a>
+
+            <button class="mobile-menu-toggle" id="mobileMenuBtn" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <nav class="main-nav" id="mainNav">
+                <a href="index.html">Home</a>
+                <a href="dashboard.html" class="nav-active">App</a>
+                <a href="about.html">The Story</a>
+            </nav>
+
+            <div style="display: flex; align-items: center; gap: 20px;">
+                <a href="https://github.com/PrabhnoorSingh-IITM/InsightForge" target="_blank" class="github-link"
+                    title="Source Code">
+                    <svg viewBox="0 0 24 24">
+                        <path
+                            d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z" />
+                    </svg>
+                </a>
+                <div class="status-badges">
+                    <span id="healthBadge" class="badge">🟢 System</span>
+                    <span id="authBadge" class="badge">🟢 Auth</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Dashboard Minimalist Redesign -->
+    <main class="container minimal-layout" id="dashboard">
+        <!-- Center Search Area -->
+        <div class="search-hero" id="searchHero">
+            <h2 class="search-title">What product do you want to analyze?</h2>
+
+            <div class="search-box-wrapper">
+                <input id="productInput" type="text" placeholder="e.g., Bluetooth Earbuds" class="search-input"
+                    autocomplete="off" />
+                <button class="btn btn-primary search-btn" id="runBtn">
+                    <span class="btn-text">Generate Insights</span>
+                    <span class="spinner hidden"></span>
+                </button>
+            </div>
+
+            <div id="configAlert" class="alert hidden"></div>
+            <div id="configStatus" class="status-text"></div>
+
+            <button id="advancedToggleBtn" class="btn-link advanced-toggle">⚙️ Advanced Options</button>
+
+            <div id="advancedSettings" class="advanced-settings hidden">
+                <div class="settings-grid">
+                    <!-- Analysis Mode -->
+                    <div class="form-section">
+                        <label class="form-label">How detailed?</label>
+                        <div class="mode-toggle">
+                            <label class="toggle-item">
+                                <input type="radio" name="mode" value="quick" checked />
+                                <span class="toggle-label">⚡ Quick<small>2 min</small></span>
+                            </label>
+                            <label class="toggle-item">
+                                <input type="radio" name="mode" value="deep" />
+                                <span class="toggle-label">🔍 Deep<small>10 min</small></span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Business Goal -->
+                    <div class="form-section">
+                        <label class="form-label">Your goal?</label>
+                        <div class="goal-buttons">
+                            <label class="goal-btn">
+                                <input type="radio" name="goal" value="growth" checked />
+                                <span>📈 Growth</span>
+                            </label>
+                            <label class="goal-btn">
+                                <input type="radio" name="goal" value="profitability" />
+                                <span>💰 Profit</span>
+                            </label>
+                            <label class="goal-btn">
+                                <input type="radio" name="goal" value="retention" />
+                                <span>❤️ Retention</span>
+                            </label>
+                            <label class="goal-btn">
+                                <input type="radio" name="goal" value="market expansion" />
+                                <span>🌍 Expand</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Data Source Mode -->
+                    <div class="form-section" style="grid-column: 1 / -1;">
+                        <label class="form-label">Data Source</label>
+                        <div class="data-toggle" style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
+                            <label class="toggle-item">
+                                <input type="radio" name="dataMode" value="sample" checked />
+                                <span class="toggle-label"
+                                    style="display:flex; flex-direction:column; padding:14px; background:var(--card); border:1px solid var(--line); border-radius:12px; text-align:center; font-weight:600; cursor:pointer;">🌐
+                                    Live API DB</span>
+                            </label>
+                            <label class="toggle-item">
+                                <input type="radio" name="dataMode" value="custom" />
+                                <span class="toggle-label"
+                                    style="display:flex; flex-direction:column; padding:14px; background:var(--card); border:1px solid var(--line); border-radius:12px; text-align:center; font-weight:600; cursor:pointer;">📁
+                                    Custom CSV</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Upload Section -->
+                    <div id="uploadSection" class="form-section hidden" style="grid-column: 1 / -1; margin-top: 8px;">
+                        <label class="form-label">Upload Catalog/Reviews CSV <small class="label-hint">(Trains LLM
+                                Context)</small></label>
+                        <div class="file-drop-zone" id="fileDropZone">
+                            <div class="file-drop-icon">📂</div>
+                            <div>Drag & drop CSV files here or click to browse</div>
+                        </div>
+                        <input type="file" id="fileInput" multiple accept=".csv" class="hidden" />
+                        <div id="fileList" style="margin-top: 12px; font-size: 0.85rem; color: var(--primary);"></div>
+                    </div>
+                </div>
+
+                <div class="form-row" style="margin-top: 16px;">
+                    <div class="form-group">
+                        <label class="form-label">Marketplace</label>
+                        <input id="marketplace" type="text" placeholder="Amazon" class="input-small" />
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Region</label>
+                        <input id="region" type="text" placeholder="India" class="input-small" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Vertical Results Stream -->
+        <div id="resultsContainer" class="results-container hidden">
+            <!-- Metrics Cards -->
+            <div class="metrics-grid minimal-metrics">
+                <div class="metric-card minimal-card">
+                    <div class="metric-value" id="confidenceScore">--</div>
+                    <div class="metric-label">Confidence</div>
+                    <span id="confidenceBadge" class="badge">--</span>
+                </div>
+                <div class="metric-card minimal-card">
+                    <div class="metric-value" id="completenessScore">--</div>
+                    <div class="metric-label">Data Quality</div>
+                    <div class="meter">
+                        <div id="completenessMeter" class="meter-fill"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Key Risks -->
+            <div class="insight-section minimal-section">
+                <h3>⚠️ Key Risks</h3>
+                <ul id="riskList" class="insight-list">
+                    <li class="placeholder">Analyzing...</li>
+                </ul>
+            </div>
+
+            <!-- Recommendations -->
+            <div class="insight-section minimal-section">
+                <h3>💡 Next Steps</h3>
+                <ul id="recommendations" class="insight-list highlight-list">
+                    <li class="placeholder">Analyzing...</li>
+                </ul>
+            </div>
+
+            <!-- Full Report -->
+            <div class="insight-section minimal-section">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                    <h3 style="margin: 0;">📋 Full Report</h3>
+                    <button id="downloadPdfBtn" class="btn btn-secondary"
+                        style="display: none; width: auto; padding: 8px 16px; margin-top: 0; font-size: 0.85rem; border-color: rgba(0, 255, 136, 0.3); color: #00ff88; font-weight: 600;">⬇️
+                        Save as PDF</button>
+                </div>
+                <div id="report" class="report-box minimal-box">
+                    <p class="placeholder">Analysis report will appear here...</p>
+                </div>
+            </div>
+
+            <!-- Start Over Button -->
+            <div style="text-align: center; margin-top: 32px;">
+                <button class="btn btn-secondary" id="newAnalysisBtn" style="display: none; margin: 0 auto;">← Start New
+                    Analysis</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast"></div>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <script type="module" src="config.js?v=2"></script>
+    <script type="module" src="api.js?v=2"></script>
+    <script type="module" src="app.js?v=2"></script>
+</body>
+
+</html>
