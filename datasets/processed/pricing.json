@@ -1,0 +1,17 @@
+[
+    {
+        "tier": "Premium",
+        "our_price": 89.99,
+        "competitor_price": 79.99
+    },
+    {
+        "tier": "Standard",
+        "our_price": 49.99,
+        "competitor_price": 54.99
+    },
+    {
+        "tier": "Budget",
+        "our_price": 19.99,
+        "competitor_price": 15.99
+    }
+]

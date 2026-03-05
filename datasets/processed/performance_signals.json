@@ -1,0 +1,20 @@
+[
+    {
+        "sku": "SKU-001",
+        "views": 10000,
+        "conversions": 150,
+        "returns": 15
+    },
+    {
+        "sku": "SKU-002",
+        "views": 8000,
+        "conversions": 320,
+        "returns": 5
+    },
+    {
+        "sku": "SKU-003",
+        "views": 15000,
+        "conversions": 100,
+        "returns": 2
+    }
+]

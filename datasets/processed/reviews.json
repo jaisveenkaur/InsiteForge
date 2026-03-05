@@ -1,0 +1,40 @@
+[
+    {
+        "rating": 5,
+        "themes": [
+            "Great Battery",
+            "Comfortable Fit"
+        ],
+        "text": "Loved the sound quality and how comfortable they are."
+    },
+    {
+        "rating": 2,
+        "themes": [
+            "Battery",
+            "Connectivity"
+        ],
+        "text": "Battery life is terrible, drops connection often."
+    },
+    {
+        "rating": 4,
+        "themes": [
+            "Sound Quality"
+        ],
+        "text": "Good sound, but an okay fit."
+    },
+    {
+        "rating": 1,
+        "themes": [
+            "Product Quality",
+            "Defect"
+        ],
+        "text": "Product arrived broken."
+    },
+    {
+        "rating": 3,
+        "themes": [
+            "Delivery"
+        ],
+        "text": "Delivery was late but product works."
+    }
+]

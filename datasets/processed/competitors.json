@@ -1,0 +1,26 @@
+[
+    {
+        "tier": "Premium",
+        "features": [
+            "Wireless",
+            "Active Noise Cancelling",
+            "Water Resistant",
+            "Multipoint Audio",
+            "Voice Assistant"
+        ]
+    },
+    {
+        "tier": "Standard",
+        "features": [
+            "Wireless",
+            "Noise Cancelling",
+            "Fast Charging"
+        ]
+    },
+    {
+        "tier": "Budget",
+        "features": [
+            "Wireless"
+        ]
+    }
+]

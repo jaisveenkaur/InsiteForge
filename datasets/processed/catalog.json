@@ -1,0 +1,5 @@
+[
+  { "sku": "SKU-001", "category": "Electronics", "price": 49.99, "features": ["Wireless", "Noise Cancelling", "Touch Control"] },
+  { "sku": "SKU-002", "category": "Electronics", "price": 89.99, "features": ["Wireless", "Active Noise Cancelling", "Water Resistant"] },
+  { "sku": "SKU-003", "category": "Accessories", "price": 19.99, "features": ["Durable", "Lightweight"] }
+]
