@@ -1,5 +1,5 @@
-import { CONFIG } from "./config.js";
-import { fetchHealth, fetchAuthStatus, runAnalysis } from "./api.js";
+import { CONFIG } from "./config.js?v=3";
+import { fetchHealth, fetchAuthStatus, runAnalysis } from "./api.js?v=3";
 
 // ============================================================
 // STATE MANAGEMENT
@@ -112,7 +112,7 @@ function setupEventListeners() {
   // Form inputs
   ui.modeRadios.forEach((r) => r.addEventListener("change", (e) => (state.formData.mode = e.target.value)));
   ui.goalRadios.forEach((r) => r.addEventListener("change", (e) => (state.formData.goal = e.target.value)));
-  
+
   ui.dataModeRadios.forEach((r) => {
     r.addEventListener("change", (e) => {
       state.formData.dataMode = e.target.value;
@@ -161,7 +161,7 @@ function setupEventListeners() {
 function goToStep(stepNum) {
   state.currentStep = stepNum;
   ui.steps.forEach((s) => s.classList.remove("active"));
-  
+
   if (stepNum === 1) ui.steps[0].classList.add("active");
   else if (stepNum === 2) ui.steps[1].classList.add("active");
   else if (stepNum === 3) ui.steps[2].classList.add("active");

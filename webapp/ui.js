@@ -1,4 +1,4 @@
-import { CONFIG } from "./config.js";
+import { CONFIG } from "./config.js?v=3";
 
 export function setHealthStatus(isOk) {
   const badge = document.getElementById("healthBadge");
