@@ -228,6 +228,26 @@
     <!-- Scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-analytics.js";
+
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+            apiKey: "AIzaSyCJThtoPwltxcvpxfcrhWowWagGfmQ5Lng",
+            authDomain: "insiteforge.firebaseapp.com",
+            projectId: "insiteforge",
+            storageBucket: "insiteforge.firebasestorage.app",
+            messagingSenderId: "783442208298",
+            appId: "1:783442208298:web:ba5615cef99d8c45548553",
+            measurementId: "G-NEJ6QGK4HC"
+        };
+
+        // Initialize Firebase
+        window.firebaseApp = initializeApp(firebaseConfig);
+        window.firebaseAnalytics = getAnalytics(window.firebaseApp);
+    </script>
     <script type="module" src="config.js?v=3"></script>
     <script type="module" src="api.js?v=3"></script>
     <script type="module" src="app.js?v=3"></script>
