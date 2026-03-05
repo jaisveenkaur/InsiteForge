@@ -25,7 +25,7 @@ app = FastAPI(
 API_KEY = os.getenv("ECOM_AGENT_API_KEY", "").strip()
 CORS_ORIGINS = [
     origin.strip()
-    for origin in os.getenv("ECOM_AGENT_CORS_ORIGINS", "*").split(",")
+    for origin in os.getenv("ECOM_AGENT_CORS_ORIGINS", "https://insiteforge.web.app,https://insiteforge.firebaseapp.com,https://insiteforge-production.up.railway.app,*").split(",")
     if origin.strip()
 ]
 
