@@ -4,7 +4,7 @@
 
 // Environment detection
 // Using the newly provided Railway production API
-const apiBaseUrl = "https://insiteforge-production-57a5.up.railway.app";
+const apiBaseUrl = "https://insiteforge-production.up.railway.app";
 
 const isDevelopment = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
 
